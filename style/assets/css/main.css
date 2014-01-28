@@ -1,0 +1,22 @@
+.title { font-family:"ostrichregular"; pointer-events: none; }
+
+h1 { font-size:3.666em; }
+h2 { font-size:3.333em; }
+h3 { font-size:3.000em; }
+h4 { font-size:2.666em; }
+h5 { font-size:2.333em; }
+h6 { font-size:2.0em; }
+h1, h2, h3 { font-family:"ostrichregular"; }
+h4, h5, h6 { font-family:"ostrichregular"; }
+
+#hero { background:white; margin-bottom: 0px; text-align:center; padding:12px 0px; } 
+
+#hero {
+    background:url('../bg3.gif') white;
+}
+
+.navigation {
+    background: #333; min-height:42px; border-bottom: 8px solid #111;
+}
+
+.centered { margin:0pt auto; width: 940px; }

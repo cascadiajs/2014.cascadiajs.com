@@ -1,0 +1,121 @@
+html, body, div, form, fieldset,
+article, header, section, footer,
+blockquote, ol, ul, li, dl, dt, dd,
+p, h1, h2, h3, h4, h5, h6,
+section, hgroup {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-size:16px;
+    line-height:24px;
+}
+
+h1, h2, h3 {
+    font-family: inherit;
+    font-weight: bold;
+    color: inherit;
+    text-rendering: optimizelegibility;
+}
+
+h1 { font-size: 40px; line-height: 60px; }
+h2 { font-size: 24px; line-height: 36px; }
+h3 { font-size: 18px; line-height: 26px; }
+    
+
+p {
+    margin-bottom:8px;
+}
+
+.row { width: 100%; }
+.row { margin-bottom: 16px; }
+.row:after {
+    content: '.';
+    visiblity: visible;
+    opacity: 0;
+    display:block;
+    width:1px; height:0px;
+    clear: both;
+}
+
+.column {
+    float: left;
+    margin-left: 8px;
+    position: relative;
+    min-height: 1px;
+    width: calc(100%/9 * 1 - 8px);
+    width: -webkit-calc(100%/9 * 1 - 8px);
+}
+
+.one { width: calc(100%/9 * 1 - 8px); width: -webkit-calc(100%/9 * 1 - 8px); }
+.two { width: calc(100%/9 * 2 - 8px); width: -webkit-calc(100%/9 * 2 - 8px); }
+.three { width: calc(100%/9 * 3 - 8px); width: -webkit-calc(100%/9 * 3 - 8px); }
+.four { width: calc(100%/9 * 4 - 8px); width: -webkit-calc(100%/9 * 4 - 8px); }
+.five { width: calc(100%/9 * 5 - 8px); width: -webkit-calc(100%/9 * 5 - 8px); }
+.six { width: calc(100%/9 * 6 - 8px); width: -webkit-calc(100%/9 * 6 - 8px); }
+.seven { width: calc(100%/9 * 7 - 8px); width: -webkit-calc(100%/9 * 7 - 8px); }
+.eight { width: calc(100%/9 * 8 - 8px); width: -webkit-calc(100%/9 * 8 - 8px); }
+.nine { width: calc(100% - 8px); width: -webkit-calc(100% - 8px); }
+
+@media (min-width: 1400px) {
+    .row.fixed,
+    .fixed .row { width: 1280px; }
+}
+
+@media (min-width: 960px) and (max-width: 1400px) {
+    .row.fixed,
+    .fixed .row { width: 960px; }
+}
+
+@media (min-width: 768px) and (max-width: 959px) {
+    .row.fixed,
+    .fixed .row { width: 768px; }
+}
+
+@media (min-width: 660px) and (max-width: 767px) {
+    .row.fixed,
+    .fixed .row { width: 660px; }
+}
+
+@media (min-width: 320px) and (max-width: 659px) {
+    .row.fixed,
+    .fixed .row { width: 320px; }
+}
+
+@media (max-width: 320px) {
+    .row.fixed,
+    .fixed .row { width: 100%; }
+
+    .column,
+    .one,
+    .two,
+    .three,
+    .four,
+    .five,
+    .six,
+    .seven,
+    .eight,
+    .nine { width: 100%; margin-left: 0; margin-bottom:8px; }
+}
+
+.pull-left { float:left; margin-right: 16px; margin-left:0px; }
+.pull-right { float:right; margin-left: 16px; margin-right:0px; text-align:right; }
+
+.debug { font-family:'redactedregular'; color: #ffaaf6; }
+.row.centered,
+.centered .row { margin:0pt auto; }
+
+.column:nth-child(9n + 1) { margin-left: 0px; }
+
+.debug .column {
+    background:#ffccf6;
+    min-height:20px;
+}
+
+h1:first-child { margin-top: -8px; margin-bottom:0px; }
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "the-more-you-node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy --open assets/js/dne.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:knode/knode.git"
+  },
+  "keywords": [
+    "knode"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knode/knode/issues"
+  },
+  "devDependencies": {
+    "beefy": "~0.6.0",
+    "browserify": "~3.0.0"
+  }
+}

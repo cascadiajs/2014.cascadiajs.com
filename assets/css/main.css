@@ -1,0 +1,101 @@
+* { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; } 
+
+#mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
+}
+
+#header {
+    border-top: 4px solid #63c1f8;
+}
+
+#main {
+    width: 600px;
+    margin: 0pt auto;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 8px;
+    background: #29832e;
+    width: 100%;
+}
+
+hgroup h1 {
+    color: #4b4b4b;
+    font-family: "ostrichblack";
+    font-weight: normal;
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+hgroup h1 .year {
+    font-family: "ostrichbold";
+    font-weight: normal;
+}
+
+hgroup h2 {
+    margin-top:0;
+    border-top:1px dashed #63c1f8;
+    padding-top:0.5em;
+    font-family: "ostrichlight";
+}
+
+form#mc-embedded-subscribe-form input[type=email] {
+    width: 80%;
+    float: left;
+    padding: 12px 10px;
+    border-radius: 3px 0px 0px 3px;
+    border-color: #4b4b4b;
+    font-family: "ostrichrounded";
+    font-size: 2em;
+
+    -webkit-transition: all 0.333s ease-in-out;
+    -moz-transition: all 0.333s ease-in-out;
+    -ms-transition: all 0.333s ease-in-out;
+    -o-transition: all 0.333s ease-in-out;
+    transition: all 0.333s ease-in-out;
+}
+
+form#mc-embedded-subscribe-form:hover input[type=submit] {
+    background: #63c1f8;
+}
+
+form#mc-embedded-subscribe-form:hover input[type=submit],
+form#mc-embedded-subscribe-form:hover input[type=email] {
+    border-color: #63c1f8;
+}
+
+form#mc-embedded-subscribe-form input[type=submit] {
+    display: inline;
+    float: right;
+    width: 20%;
+    padding: 12px 10px;
+    margin: 0;
+    border-radius: 0px 3px 3px 0px;
+    background: #4b4b4b;
+    color: white;
+    border-color: #4b4b4b;
+    font-family: "ostrichrounded";
+    font-size: 2em;
+
+    -webkit-transition: all 0.333s ease-in-out;
+    -moz-transition: all 0.333s ease-in-out;
+    -ms-transition: all 0.333s ease-in-out;
+    -o-transition: all 0.333s ease-in-out;
+    transition: all 0.333s ease-in-out;
+}
+
+hgroup { text-align: center; margin-top: 48px; }
+hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
+#twitter-share { text-align: center; margin: 0pt auto; padding-left:32px; }

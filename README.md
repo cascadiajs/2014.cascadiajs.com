@@ -1,4 +1,4 @@
-2014.cascadiajs.com
-===================
+cjs2014.github.io
+=================
 
-This is the official repo for the CascadiaJS 2013 conference.
+Teaser site for CascadiaJS 2014
