@@ -1,4 +1,5 @@
-cjs2014.github.io
+CascadiaJS 2014
 =================
 
-Teaser site for CascadiaJS 2014
+Stay tuned!
+
