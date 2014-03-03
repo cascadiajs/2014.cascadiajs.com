@@ -39,6 +39,14 @@ hgroup h1 {
     margin-bottom: 0;
 }
 
+a {
+  color: green;
+}
+
+hgroup h1.smaller {
+    font-size: 3em;
+}
+
 hgroup h1 .year {
     font-family: "ostrichbold";
     font-weight: normal;
