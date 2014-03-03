@@ -38,10 +38,10 @@ Portland, OR on July 31-August 1, 2014.
 
 For example, if your talk is called "Intro To Node.js" and your Github ID is `janedoe`, name the file `intro-to-nodejs_janedoe.md`. Check out this [example template](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/proposal-template_janedoe.md) if you need help.
 
-* Commit an image of yourself in the images subdirectory, named after your Github id. Format should be PNG, 256x256 Eg: `images/janedoe.png`
+* Commit an avatar in the images subdirectory, named after your Github id. Format should be PNG, 256x256 Eg: `images/janedoe.png`
 * When you're ready, submit a pull request.
 * Send an email to [info@cascadiajs.com](mailto:info@cascadiajs.com) to introduce yourself and so that we have a way to contact you if your talk is accepted.
-* Wait patiently (and nicely) for us to get back to you. We will respond to everyone who submits a proposal even if it's just to say "Thanks but no thanks".
+* Wait patiently (and nicely) for us to get back to you. We will respond to everyone who submits a proposal even if it's just to say "You're awesome, but not this year".
   
 ### What should be in the proposal?
 - Every proposal should have, at minimum, the following information:
@@ -96,11 +96,10 @@ If you need more encouragement, check out the following:
 - Raquel Velez,  [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 - Chris Williams, [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/)
 
-THE SELECTION PROCESS
-
+### THE SELECTION PROCESS
 Submission closes April 15. We will be convening the committee to select and will aim for speakers knowing approximately 3 months prior to the conference.
 
-MISC
+### MISC
 We have a wonderful [Code of Conduct](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/code-of-conduct.md). Check it out! And of course, "Don't be a jerk."
 
 If you have any questions about this process, need more information or need
