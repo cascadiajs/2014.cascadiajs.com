@@ -1,7 +1,7 @@
 ## CALL FOR PROPOSALS – THE DETAILS
 
 We are inviting the JavaScript community to submit talks for CascadiaJS 2014 in
-Portland, OR. This Call for Proposals will close on April 15. . When you’re
+Portland, OR. This Call for Proposals will close on April 15. When you’re
 ready to submit a proposal, go [HERE](https://github.com/cascadiajs/2014.cascadiajs.com). 
 Diversity of voices is important to our community, so
 please don't think that you need to be a JS celebrity in order to speak at
