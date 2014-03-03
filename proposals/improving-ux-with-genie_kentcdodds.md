@@ -1,9 +1,9 @@
 #Improving User Experience with Genie
 
 * Name      : Kent C. Dodds
-* Twitter   : [@kentcdodds][http://twitter.com/kentcdodds]
-* Github    : [kentcdodds][http://github.com/kentcdodds]
-* Website   : [kent.doddsfamily.us][http://kent.doddsfamily.us]
+* Twitter   : [@kentcdodds](http://twitter.com/kentcdodds)
+* Github    : [kentcdodds](http://github.com/kentcdodds)
+* Website   : [kent.doddsfamily.us](http://kent.doddsfamily.us)
 
 ##Abstract
 
