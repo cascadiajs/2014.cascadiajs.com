@@ -1,4 +1,4 @@
-# Using the JS you know to write Firefox OS apps
+# JS <3s Hardware
 
 * Name      : Kassandra Perch
 * Twitter   : [@kassandra_perch][http://twitter.com/kassandra_perch]
@@ -7,7 +7,7 @@
 
 ##Abstract
 
-Want to write a native phone app? Want to use JS (hint: Yeah)? Firefox OS is your new best friend. This talk goes into the super easy development process for FFOS apps- including using the simulator and debugging tools provided by the fantastic and active community. Use your favorite language, libraries, and frameworks, and a few new APIs, to build native phone apps today.
+Node-serialport and johnny-five ushered in a new era of accessible robotics for web developers. Raspberry Pi and BeagleBone Black entered the fray shortly thereafter, providing cheap, GPIO-enhanced, node-ready machines. Firefox OS enabled native phone apps in the web tech you know and love. JS hardware options are getting more varied, more advanced, and more exciting, by the day. This talk explores some of the ways you too can get in on the JS hardware movement, and remind you why it's always a great time to be excited about JS.
 
 ##Speaker Bio
 
