@@ -11,7 +11,7 @@ Want to write a native phone app? Want to use JS (hint: Yeah)? Firefox OS is you
 
 ##Speaker Bio
 
-![kperch](https://raw.github.com/kperch/2014.cascadiajs.com/kperch_proposal/images/kperch.png)
+![kperch](https://raw.github.com/kperch/2014.cascadiajs.com/kperch_proposal/images/kperch.jpg)
 
 Kassandra Perch is an unrepentant javascript addict. She spends her days slinging JS everywhere at RetailMeNot in Austin, TX. She spends her evenings and weekends...slinging more javascript- at robots, on servers, and at her Girl Develop It! Austin students. She's also re-learning how to roller skate, and does every type of crafting you can think of. 
 
