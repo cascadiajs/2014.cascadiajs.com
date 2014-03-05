@@ -1,9 +1,9 @@
 # JS <3s Hardware
 
 * Name      : Kassandra Perch
-* Twitter   : [@kassandra_perch][http://twitter.com/kassandra_perch]
-* Github    : [kperch][http://github.com/kperch]
-* Website   : [blog.eunknown.net][http://blog.eunknown.net]
+* Twitter   : [@kassandra_perch][]
+* Github    : [kperch][]
+* Website   : [blog.eunknown.net][]
 
 ##Abstract
 

@@ -1,9 +1,9 @@
 # Using the JS you know to write Firefox OS apps
 
 * Name      : Kassandra Perch
-* Twitter   : [@kassandra_perch][http://twitter.com/kassandra_perch]
-* Github    : [kperch][http://github.com/kperch]
-* Website   : [blog.eunknown.net][http://blog.eunknown.net]
+* Twitter   : [@kassandra_perch][]
+* Github    : [kperch][]
+* Website   : [blog.eunknown.net][]
 
 ##Abstract
 
