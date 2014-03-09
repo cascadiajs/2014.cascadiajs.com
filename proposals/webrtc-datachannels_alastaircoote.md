@@ -1,9 +1,9 @@
 #WebRTC DataChannels or: How I Learned To Stop Worrying And Flap My Arms
 
 * Name      : Alastair Coote
-* Twitter   : [@_alastair][]
-* Github    : [alastaircoote][]
-* Website   : [blogging.alastair.is][]
+* Twitter   : [@_alastair](http://twitter.com/_alastair)
+* Github    : [alastaircoote](https://github.com/alastaircoote)
+* Website   : [blogging.alastair.is](http://blogging.alastair.is)
 
 ##Abstract
 
@@ -18,7 +18,7 @@ This talk will be based on [a blog post I wrote](http://blogging.alastair.is/web
 
 ##Speaker Bio
 
-![alastaircoote](https://raw.github.com/alastaircoote/2014.cascadiajs.com/master/images/alastaircoote.png)
+![alastaircoote](https://raw.github.com/alastaircoote/2014.cascadiajs.com/master/images/alastaircoote.jpg)
 
 Alastair is a mobile-focused developer at The New York Times. He grew up in the UK and now lives in New York, but in between that spent two years living in British Columbia - and still misses it.
 
