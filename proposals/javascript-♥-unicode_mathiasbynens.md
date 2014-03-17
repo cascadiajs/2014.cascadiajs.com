@@ -1,9 +1,9 @@
 # JavaScript ♥ Unicode
 
-* Name      : Mathias Bynens
-* Twitter   : [@mathias][https://twitter.com/mathias]
-* GitHub    : [mathiasbynens][https://github.com/mathiasbynens]
-* Website   : [mathiasbynens.be][http://mathiasbynens.be/]
+* Name: Mathias Bynens
+* Twitter: [@mathias](https://twitter.com/mathias)
+* GitHub: [mathiasbynens](https://github.com/mathiasbynens)
+* Website: [mathiasbynens.be](http://mathiasbynens.be/)
 
 ## Abstract
 
