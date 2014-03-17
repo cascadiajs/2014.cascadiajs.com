@@ -25,6 +25,6 @@ Yield those confused async notions and control your flow. I promise we'll get yo
 
 ## Speaker Bio
 
-![getify](getify.jpg)
+![getify](../images/getify.png)
 
 Kyle Simpson is an Open Web Evangelist from Austin, TX. He's passionate about JavaScript, HTML5, real-time/peer-to-peer communications, and web performance. Otherwise, he's probably bored by it. Kyle is an author, workshop trainer, tech speaker, and avid OSS community member.
