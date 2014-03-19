@@ -11,7 +11,7 @@
 
 We'll begin by briefly discussing what functional programming means and compare it to the more popular imperitive programming style. Then we'll dive in to what vanilla JS has to offer. After that, we'll see how we can use [underscore](http://underscorejs.org/) and [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) to improve our code even more. 
 
-By the end of this talk, you'll understand why functional programming is so powerful through concepts like recursion, currying, partials, composition and more. These strategies will improve your ability to write shorter, safer, and more understandable code.
+By the end of this talk, you'll understand why concepts like recursion, currying, partials, composition make functional programming so powerful. These strategies will improve your ability to write shorter, safer, and more understandable code.
 
 ##Speaker Bio
 
