@@ -11,10 +11,10 @@
 
 We'll begin by briefly discussing what functional programming means and compare it to the more popular imperitive programming style. Then we'll dive in to what vanilla JS has to offer. After that, we'll see how we can use [underscore](http://underscorejs.org/) and [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) to improve our code even more. 
 
-By the end of this talk, you'll understand why functional programming is so powerful through concepts like recursion, currying, partials, composition and more. These strategies will improve your ability to write shorter, safer, and more understandable code.
+By the end of this talk, you'll understand why concepts like recursion, currying, partials, composition make functional programming so powerful. These strategies will improve your ability to write shorter, safer, and more understandable code.
 
 ##Speaker Bio
 
-![trevor](https://1.gravatar.com/avatar/aceb4065dc4c6bd7f01275aaf07184a1?d=https%3A%2F%2Fidenticons.github.com%2Fc9ac1da1a04277d9029584a3121d8230.png&r=x&s=256)
+![trevor](https://raw.githubusercontent.com/landau/2014.cascadiajs.com/patch-1/images/trevorlandau.png)
 
 Trevor Landau works for Conde Nast on the infrastructure team where he spends much of his time writing `node.js`. Trevor previously worked @ the New York Times on the Mobile Web team where he helped lead the development of [m.nytimes.com](http://m.nytimes.com). He also co-organizes the [NYC HTML5 Meetup](http://nychtml5.com/). In his free time he is learning clojure, listens to software engineering radio, and exercises.
