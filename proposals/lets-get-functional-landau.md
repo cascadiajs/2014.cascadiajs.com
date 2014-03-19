@@ -15,6 +15,6 @@ By the end of this talk, you'll understand why concepts like recursion, currying
 
 ##Speaker Bio
 
-![trevor](https://1.gravatar.com/avatar/aceb4065dc4c6bd7f01275aaf07184a1?d=https%3A%2F%2Fidenticons.github.com%2Fc9ac1da1a04277d9029584a3121d8230.png&r=x&s=256)
+![trevor](https://raw.githubusercontent.com/landau/2014.cascadiajs.com/patch-1/images/trevorlandau.png)
 
 Trevor Landau works for Conde Nast on the infrastructure team where he spends much of his time writing `node.js`. Trevor previously worked @ the New York Times on the Mobile Web team where he helped lead the development of [m.nytimes.com](http://m.nytimes.com). He also co-organizes the [NYC HTML5 Meetup](http://nychtml5.com/). In his free time he is learning clojure, listens to software engineering radio, and exercises.
