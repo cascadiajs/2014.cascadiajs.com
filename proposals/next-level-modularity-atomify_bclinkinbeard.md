@@ -11,7 +11,7 @@ By now, everyone knows the value of modular JavaScript and at least the basics o
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/bclinkinbeard.png)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/bclinkinbeard.png)
 
 Ben Clinkinbeard is a passionate OSS and JavaScript developer, currently working to build location intelligence applications at [SpatialKey](http://spatialkey.com). His primary interests include Browserify, npm, Angular, D3, and constant architecture and tooling improvements.
 
