@@ -13,7 +13,7 @@ Here are some interesting ways we have tried to solve these issues.
 * Mounting sub apps to handle specific route/ route families.
 * Using express-namespace / express-enrouten like modules to organize routes.
 
-In a demo I will demonstrate how: 
+In this presentation I will demonstrate how: 
 
 * Without organization, apps can become maintenance hell, 
 * Using above suggestions, teams writing bloated apps can achieve developer joy.
