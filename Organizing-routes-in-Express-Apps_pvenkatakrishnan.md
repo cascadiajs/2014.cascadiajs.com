@@ -23,7 +23,7 @@ In this presentation I will demonstrate:
 
 ![Poornima Venkatakrishnan](https://raw.githubusercontent.com/pvenkatakrishnan/2014.cascadiajs.com/master/images/poornima.jpeg)
 
-Poornima is an application Engineer writing a lot of nodejs and loving it !! She used to be a mobile engineer but converted to a full-time web enthusiast. When not coding, she is a proud mom of a toddler and also actively participates in fund raising shows for non-profit organizations in the bay area. She is originally from India, but now settled in the Silicon Valley working for Paypal Inc. Currently part of the team that opensourced ![Krakenjs](www.krakenjs.org) and working on a
+Poornima is an application Engineer writing a lot of nodejs and loving it !! She used to be a mobile engineer but converted to a full-time web enthusiast. When not coding, she is a proud mom of a toddler and also actively participates in fund raising shows for non-profit organizations in the bay area. She is originally from India, but now settled in the Silicon Valley working for Paypal Inc. Currently part of the team that opensourced [Krakenjs!](www.krakenjs.org) and working on a
 solution for 'template specialization' that can make  
 * A/B testing easy
 * Enables an alternative to adaptive/responsive solutions
