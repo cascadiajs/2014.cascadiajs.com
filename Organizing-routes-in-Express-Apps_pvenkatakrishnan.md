@@ -6,7 +6,7 @@
 
 ##Abstract
 
-If you are writing enterprise level express (nodejs) apps, your may have experienced that apps can quickly grow in leaps and bounds with multiple routes. Route organization becomes a headache if we do not leash that animal in its earlier stages. And if you are working with big teams, this can become a bigger headache as there will be multiple hands touching the code on a day to day basis. While github workflow (forking, pull requests) can help mitigate this issue, it will be great to assign domain owners in the app and make it exclusively their responsibiliy to maintain it. While it keeps the maintenance easy, it also gives a sense of pride in ownership for the team members!!
+If you are writing enterprise level express (nodejs) apps, your may have experienced that apps can quickly grow in leaps and bounds with multiple routes. Route organization becomes a headache if we do not leash that animal in its earlier stages. And if you are working with big teams, this can become a bigger headache with multiple hands touching the code on a day to day basis. While github workflow (forking, pull requests) can help mitigate this issue, it will be great to assign domain owners in the app and make it exclusively their responsibiliy to maintain it. While it keeps the maintenance easy, it also gives a sense of pride in ownership for the team members!!
 
 Here are some interesting ways we have tried to solve these issues.
 
