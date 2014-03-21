@@ -15,7 +15,7 @@ Here are some interesting ways we have tried to solve these issues.
 
 In this presentation I will demonstrate: 
 
-* Without organization, apps can become maintenance hell, 
+* Without organization, apps can become maintenance hell
 * How to use above suggestions to transform into a cleaner app, so that teams writing bloated apps can achieve developer joy.
 
 
