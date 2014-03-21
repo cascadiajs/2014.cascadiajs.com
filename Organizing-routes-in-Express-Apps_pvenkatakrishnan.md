@@ -11,7 +11,7 @@ If you are writing enterprise level express (nodejs) apps, your may have experie
 Here are some interesting ways we have tried to solve these issues.
 
 * Mounting sub apps to handle specific route/ route families.
-* Using express-namespace / express-enrouten and similar modules.
+* Using express-namespace / express-enrouten like modules to organize routes.
 
 I will demo how without route/code organization, apps can become maintenance hell, and how using above suggestions, teams writing bloated apps can achieve developer joy.
 
