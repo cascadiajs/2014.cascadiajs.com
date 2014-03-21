@@ -1,4 +1,4 @@
-#Title of Talk
+#Honey I shrunk my App!!
 
 * Name      : Poornima Venkatakrishnan
 * Twitter   : [@poorni_venkat][]
@@ -6,16 +6,14 @@
 
 ##Abstract
 
-If you are writing enterprise level express (nodejs) apps, your apps can quickly grow in leaps and bounds with multiple
-routes. Route organization becomes a headache if we do not leash that animal in its earlier stages. Also if you have
-forms which can result in  multiple crud operations, we may be able to get away by not deliberately wiring each of them
-using ajax calls, on the front end. This presentation will walk through issues that we may run into while writing apps
-for products in big companies and interesting ways to solve them and keep it under control.
-Some of them include:
+If you are writing enterprise level express (nodejs) apps, your may have experienced that apps can quickly grow in leaps and bounds with multiple routes. Route organization becomes a headache if we do not leash that animal in its earlier stages. And if you are working with big teams, this can become a bigger headache as there will be many hands touching the code on a day to day basis. While github and PR mechanisms can mitigate this issue, it will be great to assign domain owners in the app and make it exclusively their responsibiliy to maintain it.
+
+Here are some interesting ways we have tried to solve these issues.
 
 * Mounting sub apps to handle specific route/ route families.
 * Using express-namespace / express-enrouten and similar modules.
-* Using Express overridemethod() as a way to map a request from browser into a specific operation in the app.
+
+I will demo how without route/code organization, apps can become maintenance hell, and how using above suggestions, teams writing bloated apps can achieve developer joy.
 
 
 ##Speaker Bio
@@ -24,7 +22,10 @@ Some of them include:
 
 Poornima is an application Engineer writing a lot of nodejs at Paypal Inc. She used to be a mobile engineer but recently
 converted to a full-time web enthusiast. Currently part of the team at Paypal that opensourced Krakenjs and working on a
-solution for 'template specialization' to make  A/B testing easy, enabling an alternative to adaptive/responsive solutions.
+solution for 'template specialization' that can make  
+* A/B testing easy
+* Enables an alternative to adaptive/responsive solutions
+* Enables an easy way to switch templates based on locales
 
 [@poorni_venkat]:https://twitter.com/poorni_venkat
 [pvenkatakrishnan]:http://github.com/pvenkatakrishnan
