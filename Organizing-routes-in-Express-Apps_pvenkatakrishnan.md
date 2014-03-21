@@ -20,7 +20,7 @@ Some of them include:
 
 ##Speaker Bio
 
-![Poornima Venkatakrishnan](https://raw.github.com/pvenkatakrishnan/2013.cascadiajs.com/master/images/poornima.jpeg)
+![Poornima Venkatakrishnan](https://raw.github.com/pvenkatakrishnan/2014.cascadiajs.com/blob/master/images/poornima.jpeg)
 
 Poornima is an application Engineer writing a lot of nodejs at Paypal Inc. She used to be a mobile engineer but recently
 converted to a full-time web enthusiast. Currently part of the team at Paypal that opensourced Krakenjs and working on a
