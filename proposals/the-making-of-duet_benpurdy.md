@@ -15,7 +15,7 @@ A case study of Duet [can be found here](http://weareinstrument.com/work/all/due
 
 ##Speaker Bio
 
-![](../images/benpurdy.jpg)
+![](../images/benpurdy.png)
 
 Ben Purdy is a Technical Director at [Instrument](http://www.weareinstrument.com). With a background in software and a passion for technical problem solving, Ben usually finds his way into projects combining emerging technologies with creative ideas. When he's not working in the lab at Instrument, you'll usually find Ben in his home workshop with soldering iron in hand and a code editor on the monitor.
 
