@@ -7,7 +7,9 @@
 
 ##Abstract
 
-Cylon.js [http://cylonjs.com](http://cylonjs.com) is a JavaScript framework for robotics based on Node.js that can communicate with many different kinds of hardware devices all at the same time. With surprisingly few lines of code, you can write apps that tie together Arduinos, ARDrones, Spheros, and more. The time has come for the next generation of open source robotics, and Cylon.js is here to help!
+Cylon.js ([http://cylonjs.com](http://cylonjs.com)) is a JavaScript framework for robotics based on Node.js that can communicate with many different kinds of hardware devices all at the same time. With surprisingly few lines of code, you can write apps that tie together Arduinos, ARDrones, Spheros, and more. The time has come for the next generation of open source robotics, and Cylon.js is here to help!
+
+This live demonstration will introduce everyone to the concepts of robotics and physical computing, as well as show real code controlling actual robotic devices, blinking, rolling, and flying.
 
 ##Speaker Bio
 
