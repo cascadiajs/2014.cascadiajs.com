@@ -1,11 +1,12 @@
 #Cylon.js: The JavaScript Evolution Of Open Source Robotics 
 
+###Ron Evans
 * Name      : Ron Evans
 * Twitter   : [@deadprogram](http://twitter.com/deadprogram)
 * GitHub    : [deadprogram](http://github.com/deadprogram)
 * Website   : [hybridgroup.com](http://hybridgroup.com)
 
-
+###Adrian Zankich
 * Name      : Adrian Zankich
 * Twitter   : [@adzankich](http://twitter.com/adzankich)
 * GitHub    : [adzankich](http://github.com/adzankich)
@@ -19,8 +20,6 @@ This live demonstration will not only introduce everyone to the concepts of robo
 
 ##Speaker Bios
 
-###Ron Evans
-
 ![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/ronevans.png)
 
 Ron Evans is a well-known software developer who has been very active in the free and open source community for over 20 years. As ringleader of The Hybrid Group, he has been helping clients solve some of their most difficult technical and business problems. Ron has been a very active speaker, presenting at conferences such as Golden Gate Ruby Conference, RubyConf, FutureRuby, Ignite, Los Angeles Ruby Conference, Ruby Kaigi, and MagmaConf. He was featured in Computerworld Magazine in the article "Rock Star Coders" for his popular blog post "I'd Rather Be A Jazz Programmer", as well as having written articles for MSNBC, BYTE Magazine, and the Direct Marketing Association, Ron is an active code contributor to many open source projects, including being the creator of the award-winning KidsRuby, free software to help teach Ruby programming to kids.
@@ -28,8 +27,6 @@ Ron Evans is a well-known software developer who has been very active in the fre
 [@deadprogram]:http://twitter.com/deadprogram
 [deadprogram]:http://github.com/deadprogram
 [hybridgroup.com]:http://hybridgroup.com
-
-###Adrian Zankich
 
 ![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/adrian-zankich.png)
 
