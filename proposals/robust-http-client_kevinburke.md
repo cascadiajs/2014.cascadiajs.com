@@ -5,6 +5,14 @@
 * Github:  [kevinburke][github]
 * Website: [kev.inburke.com][site]
 
+Photo:
+
+<img src="https://raw.githubusercontent.com/kevinburke/2014.cascadiajs.com/http-errors/images/kevinburke.jpeg" alt="User bio" />
+
+(found [here][photo])
+
+ [photo]: https://github.com/kevinburke/2014.cascadiajs.com/blob/http-errors/images/kevinburke.jpeg
+
  [twitter]: https://twitter.com/ekrubnivek
  [github]: https://github.com/kevinburke
  [site]: http://kev.inburke.com
