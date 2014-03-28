@@ -9,9 +9,10 @@
 
 - [Brunch with Panache](http://www.meetup.com/chicago-html5/events/162640832/)
 
-## Code sample with annotations
+## Code sample
 
-- [Two-way data binding for Chapless Brunch with Rivets](https://github.com/jhabdas/chapless-rivetsjs/commit/72a9764799343f5c8b963790406b9c0e5cff0b00)
+- [Two-way data binding for Chapless Brunch with Rivets](https://github.com/jhabdas/chapless-rivetsjs/commit/72a9764799343f5c8b963790406b9c0e5cff0b00) (annotated)
+- [Hopstop](https://github.com/jhabdas/hopstop) ([demo](http://lab.habdas.org/))
 
 ## Writing on the topic
 
