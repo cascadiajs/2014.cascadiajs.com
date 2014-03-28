@@ -7,8 +7,7 @@
 
 ## Abstract
 
-With all the emerging tools in JS today it can be difficult to understand how all of the pieces fit together. This talk will discuss how to go from zero to stand up an
-entire application stack in five minutes, and descripe how to avoid common pitfalls when creating rich internet apps.
+With all the emerging tools in JS today it can be difficult to understand how all of the pieces fit together, if at all. This talk will discuss how to go from zero to stand-up an entire front-end application stack in under five minutes, describe how to avoid common pitfalls when creating rich internet apps and keep things coding simple and fun.
 
 Tooling covered includes Bower, Brunch, Chaplin, Backbone, Karma, PhantomJS, Mocha, Sinon, CoffeeScript, CoffeeLint, Handlebars and Swag.
 
