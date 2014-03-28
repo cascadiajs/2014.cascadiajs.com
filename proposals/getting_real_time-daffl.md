@@ -14,6 +14,6 @@ Who is our favourite starship captain?
 
 ## About me
 
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/daffl.png)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/daffl.png)
 
 David is a long time JavaScripter and open-sourcer currently living in Calgary, Canada working for [Bitovi](http://bitovi.com) and maintaining [CanJS](http://canjs.com), the evolution of one of the first client side MVC frameworks [JavaScriptMVC](http://javascriptmvc.com). Offline, you can also find him at local tech meetups speaking about JavaScript and other web technologies.
