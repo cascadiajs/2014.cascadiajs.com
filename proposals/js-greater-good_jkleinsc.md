@@ -18,7 +18,7 @@ In this session, we will talk about the challenges, solutions and lessons learne
 
 ![jkleinsc](../images/jkleinsc.png)
 
-John Kleinschmidt is the lead developer for [hosptialrun](http://hospitalrun.io), an open source project to provide modern software for charitable hospitals in the developing world.
+John Kleinschmidt is the lead developer for [hospitalrun](http://hospitalrun.io), an open source project to provide modern software for charitable hospitals in the developing world.
 John works at [CURE International](http://cure.org) as the Director of Technology Development.  John hails from Harrisburg, PA where he lives with his wife and 3 kids.  
 
 [@jkleinsc]:http://twitter.com/jkleinsc
