@@ -7,11 +7,11 @@
 
 ##Abstract
 
-`i++`, `++i`, `i += 1`...Ditch those loops and *let's get functional*. Functional programming improves readability, avoids mutability, eliminates side effects, and more. JavaScript isn't a *pure* functional language, but because it supports higher-order functions it can certainly act like it. In this talk, we'll explore functional programming in JS through a myriad of examples that you can start using in your code today! 
+Ditch those mutable values and *let's get functional*. Functional programming improves readability, avoids mutability, eliminates side effects, and more. JavaScript isn't a *pure* functional language, but because it supports higher-order functions it can certainly act like it. In this talk, we'll explore functional programming in JS through a myriad of examples that you can start using in your code today! 
 
-We'll begin by briefly discussing what functional programming means and compare it to the more popular imperitive programming style. Then we'll dive in to what vanilla JS has to offer. After that, we'll see how we can use [underscore](http://underscorejs.org/) and [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) to improve our code even more. 
+We'll begin by briefly discussing what functional programming means and compare it to the more popular imperitive programming style. This includes, but not limited to, concepts like immutability, partials and predicates. Then we'll play with some functions native to JS that allow us to transform values instead of mutating them. Following that, we'll wield [underscore](http://underscorejs.org/) and [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) to make writing functional JS even more powerful.
 
-By the end of this talk, you'll understand why concepts like recursion, currying, partials, composition make functional programming so powerful. These strategies will improve your ability to write shorter, safer, and more understandable code.
+By the end of this talk, you'll be able to write more concise, safer, reusable and understandable code.
 
 ##Speaker Bio
 
