@@ -29,12 +29,16 @@ We are framework agnostic. We also accept non-talk proposals such as moderated
 discussions. You can indicate your format in the CfP submission.
 
 ### HOW TO SUBMIT A PROPOSAL
+*OPTION #1*  
 First, make sure you're available to attend the conference. It will be held in
 Portland, OR on July 31-August 1, 2014.
 * Create a [GitHub account](github.com) if you don't have one already
 * Fork this repository
 * Checkout the `master` branch
 * Create and commit a markdown (`.md`) file in this directory named after the talk title and your GitHub ID.
+
+*OPTION #2*  
+Knowing that your talk proposal is going to get put under a microscope in public is daunting for a lot of people (especially those who have never spoken before). Try this alternative by following the below format and sending it to [speak@cascadiajs.com](mailto:speak@cascadiajs.com)
 
 For example, if your talk is called "Intro To Node.js" and your GitHub ID is `janedoe`, name the file `intro-to-nodejs_janedoe.md`. Check out this [example template](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/proposal-template_janedoe.md) if you need help.
 
