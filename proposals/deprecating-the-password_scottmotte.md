@@ -19,7 +19,7 @@ Come see a talk on the security strengths and weaknesses of this fresh approach 
 
 ![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/scottmotte.jpg)
 
-Scott Motte is a developer evangelist at [SendGrid](http://sendgrid.com). He likes the freedom of the web, believes the future is bright, and enjoys coding in JavaScript and Go.
+Scott Motte is a developer evangelist at [SendGrid](http://sendgrid.com). He likes the freedom of the web, believes the future is bright, and enjoys coding in JavaScript and Go. He lives in LA.
 
 [@scottmotte]:http://twitter.com/scottmotte
 [scottmotte]:http://github.com/scottmotte
