@@ -1,8 +1,8 @@
 #Honey I shrunk my App!!
 
 * Name      : Poornima Venkatakrishnan
-* Twitter   : [@poorni_venkat][]
-* Github    : [pvenkatakrishnan][]
+* Twitter   : [@poorni_venkat](https://twitter.com/poorni_venkat)
+* Github    : [pvenkatakrishnan](http://github.com/pvenkatakrishnan)
 
 ##Abstract
 
@@ -23,5 +23,6 @@ In this presentation I will demonstrate:
 
 ![Poornima Venkatakrishnan](https://raw.githubusercontent.com/pvenkatakrishnan/2014.cascadiajs.com/master/images/poornima.jpeg)
 
-Poornima is a web application Engineer writing a lot of nodejs code and loving it !! She used to be a mobile engineer but converted to a full-time web enthusiast. When not coding, she is a proud mom of a toddler and also actively participates in fund raising shows for non-profit organizations in the bay area. She is originally from India, but now settled in the Silicon Valley working for Paypal Inc. Currently part of the team that opensourced [Krakenjs](www.krakenjs.com) and working on a solution for 'template specialization' for Krakenjs. Checkout her github repo if you are curious or visit github.com/krakenjs for all active development.
-
+Poornima is a web application Engineer writing a lot of nodejs code and loving it !! She used to be a mobile engineer but converted to a full-time web enthusiast.
+When not coding, she is a proud mom of a toddler and also actively participates in fund raising shows for non-profit organizations in the bay area. She is originally from India, but now settled in the Silicon Valley working for Paypal Inc.
+Currently part of the team that opensourced [Krakenjs](www.krakenjs.com) and working on a solution for 'template specialization' for Krakenjs. Checkout [her github repo](http://github.com/pvenkatakrishnan) if you are curious or visit [github.com/krakenjs](github.com/krakenjs)for all active development.
