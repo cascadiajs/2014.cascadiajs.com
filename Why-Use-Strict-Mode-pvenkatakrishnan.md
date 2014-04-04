@@ -1,4 +1,4 @@
-#Why Use Strict Mode in node?
+#Why Use Strict Mode ?
 
 * Name      : Poornima Venkatakrishnan
 * Twitter   : [@poorni_venkat](https://twitter.com/poorni_venkat)
@@ -22,7 +22,7 @@ I will also show some interesting patterns that can be simulated in javascript b
 2. Object with non-extensible properties
 3. Disabling being able to delete properties on an object
 
-This may become important to you in node while writing modules, since requiring a module, loads it in a global cache and any file requiring the same module will get the cached version.
+This may become important to you in nodejs while writing modules, since requiring a module, loads it in a global cache and any file requiring the same module will get the cached version.
 
 ##Speaker Bio
 
