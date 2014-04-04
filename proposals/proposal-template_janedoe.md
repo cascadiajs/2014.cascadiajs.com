@@ -2,7 +2,7 @@
 
 * Name      : Jane Doe
 * Twitter   : [@janedoe][]
-* Github    : [janedoe][]
+* GitHub    : [janedoe][]
 * Website   : [jane.doe.com][]
 
 ##Abstract
@@ -11,7 +11,7 @@
 
 ##Speaker Bio
 
-![jandoe](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/janedoe.png)
+![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/janedoe.png)
 
 I'm a magical sloth that likes to crawl and climb through the forest and sit in the stream and I write code sometimes.
 
