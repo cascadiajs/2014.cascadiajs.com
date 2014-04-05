@@ -36,5 +36,5 @@ I'm sure the demo is going to be very fun. Hope you'll enjoy!
 
 Poornima is a web application Engineer writing a lot of nodejs code and loving it !! She used to be a mobile engineer but converted to a full-time web enthusiast.
 When not coding, she is a proud mom of a toddler and also actively participates in fund raising shows for non-profit organizations in the bay area. She is originally from India, but now settled in the Silicon Valley working for Paypal Inc.
-Currently part of the team that opensourced [Krakenjs](www.krakenjs.com) and working on a solution for 'template specialization' for Krakenjs. Checkout [her github repo](http://github.com/pvenkatakrishnan) if you are curious or visit [github.com/krakenjs](github.com/krakenjs)for all active development.
+Currently part of the team that opensourced [Krakenjs](http://www.krakenjs.com) and working on a solution for 'template specialization' for Krakenjs. Checkout [her github repo](http://github.com/pvenkatakrishnan) if you are curious or visit [github.com/krakenjs](http://github.com/krakenjs) for all active development.
 
