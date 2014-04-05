@@ -14,7 +14,7 @@ With the websocket spec now being [supported](http://caniuse.com/#feat=websocket
 
 ## Speaker Bio
 
-![Awesome selfie-gif](https://camo.githubusercontent.com/fe6f151919b83cb46a4598293e3b26df05391d7a/687474703a2f2f692e696d6775722e636f6d2f615a396972764f2e676966)
+![Awesome selfie-gif](http://i.imgur.com/rbZOwLh.gif)
 
 In another life Joe Lepper was an English teacher. But these days he's a software engineer happily working on the browser monitoring team at New Relic, helping to build tools to make it easier to gain visibility into how front-end applications function. He is passionate about JavaScript, object-oriented CSS, and front-end operations. Lately when he plays dressup he usually ends up as the horsey even though he asks to be the princess.
 
