@@ -7,7 +7,7 @@
 
 ## Abstract
 
-If Reddit truly is the front page of the Internet, then it may also be the biggest stage upon which we can mount a spontaneous immersive performance. During this talk we'll examine the aesthetic possibilities available to us as developers as we drink from and respond to the firehose of content that Reddit generates everyday. As an example we'll demo bot_skit, an attempt at automating an interactive experience on Reddit, and a framework for others to create such experiences.
+If Reddit truly is the front page of the Internet, then it may also be the biggest stage upon which we can mount a spontaneous immersive performance. During this talk we'll examine the aesthetic possibilities available to us as developers as we drink from and respond to the firehose of content that Reddit generates everyday. As an example we'll demo [bot_skit](https://github.com/joeLepper/bot_skit), an attempt at automating an interactive experience on Reddit, and a framework for others to create such experiences.
 
 
 ## Speaker Bio
