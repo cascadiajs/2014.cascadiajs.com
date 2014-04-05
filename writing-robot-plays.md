@@ -1,4 +1,4 @@
-# Visual Diffs: Catching Visual Regressions Before They Happen
+# Writing Robot Plays: NodeJS, Reddit, and Questionable Usefulness
 
 * Name: Joe lepper
 * Twitter: [@josephlepper][]
@@ -7,9 +7,8 @@
 
 ## Abstract
 
-Testing CSS is hard. A human hand is required. But that doesn't mean that we can't use computers to help automate the process. We'll go over how using visual diffs (pixel-by-pixel comparisons of what has changed between two different versions of a site) can help to catch visual regressions before they get merged and deployed. We'll look at how we can stand up a simple Node server to make them an indispensablepart of a PR-based continuous integration deployment process. We'll also briefly examine some of the drawbacks of approaching UI testing in this way.
+If Reddit truly is the front page of the Internet, then it may also be the biggest stage upon which we can mount a spontaneous immersive performance. During this talk we'll examine the aesthetic possibilities available to us as developers as we drink from and respond to the firehose of content that Reddit generates everyday. As an example we'll demo bot_skit, an attempt at automating an interactive experience on Reddit, and a framework for others to create such experiences.
 
-![visual diff](https://s3.amazonaws.com/uploads.hipchat.com/19016/330068/G7TapVa7G8Nkwds/application_show.png)
 
 ## Speaker Bio
 
