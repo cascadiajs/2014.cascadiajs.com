@@ -1,4 +1,4 @@
-# Writing Robot Plays: NodeJS, Reddit, and Questionable Usefulness
+# Writing Robot Plays: NodeJS, Reddit, and The Aesthetics of Unwitting Participation
 
 * Name: Joe lepper
 * Twitter: [@josephlepper][]
