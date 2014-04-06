@@ -2,24 +2,24 @@
 
 ## Abstract
 
-We strive to be better.
-We strive to be better at doing our job.
-We strive to be better at making our world better.
+We strive to be **better**.  
+We strive to be **better** at doing our *job*.  
+We strive to be **better** at improving our *world*.  
 
-To do so, we travel to listen to inspiring people (*:wink:*), we code JavaScript anytime a day and we even *contribute* to projects, Open Source or private, managed by us or someone else.
+To do so, we travel to listen to inspiring people (:wink:), we code JavaScript anytime a day and we even *contribute* to projects, Open Source or private, managed by us or by someone else.
 
-Contributing you say?
+**Contributing** you say?
 
-Like opening an issue. And getting frustrated that the idea is not turned into an implementation.
-Like proposing a pull request. And getting frustrated that is does get merged.
-Like forking the project. And getting frustrated no one pays attention to it.
+Like opening an **issue**. And getting *frustrated* that the idea is not turned into an implementation.  
+Like proposing a **pull request**. And getting *frustrated* that is does get merged.  
+Like **forking** the project. And getting *frustrated* no one pays attention to it.
 
-Even if it is a beautiful crafted code, properly tested and nicely documented.
+Even if it is a **beautiful crafted code**, properly *tested* and nicely *documented*.
 
 The **55 commits syndrome** is the idea of working so much on the technical aspect we even lose the focus on the essential: the **human communication**.
 
-After all, isn't the code supposed to be a common *language between developers*, blindly followed by machines?
-Let's not be blind against each other.
+After all, isn't the code supposed to be a common *language between developers*, blindly followed by machines?  
+Let's not be blind and rather be **better as a group**.
 
 ## Speaker Bio
 
