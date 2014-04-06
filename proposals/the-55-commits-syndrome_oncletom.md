@@ -23,7 +23,7 @@ Let's not be blind and rather be **better as a group**.
 
 ## Speaker Bio
 
-![oncletom](images/oncletom.png)
+![oncletom](../images/oncletom.png)
 
 **Thomas Parisot is a French Web Engineer working at BBC R&D** in London, United Kingdom. He enjoys using JavaScript to craft joyful libraries and APIs, for the frontend and the backend, developing  and sharing them in the open.
 
