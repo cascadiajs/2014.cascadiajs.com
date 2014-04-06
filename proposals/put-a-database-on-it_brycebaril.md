@@ -1,9 +1,9 @@
 #Put A Database On It!
 
 * Name      : Bryce Baril
-* Twitter   : [@brycebaril][]
-* GitHub    : [brycebaril][]
-* Website   : [brycebaril.com][]
+* Twitter   : [@brycebaril](http://twitter.com/brycebaril)
+* GitHub    : [brycebaril](http://github.com/brycebaril)
+* Website   : [brycebaril.com](http://brycebaril.com)
 
 ##Abstract
 
