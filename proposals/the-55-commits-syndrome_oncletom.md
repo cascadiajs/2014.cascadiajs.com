@@ -2,20 +2,24 @@
 
 ## Abstract
 
-We all **like writing JavaScript**.  
-We can be passionated, motivated and thrilled to help.  
-We can spend minutes, hours or even days to contribute and build a project or a library.
+We strive to be better.
+We strive to be better at doing our job.
+We strive to be better at making our world better.
 
-No wonder why we would expect to see a one week effort *pull request* to be merged into the `master` branch.
+To do so, we travel to listen to inspiring people (*:wink:*), we code JavaScript anytime a day and we even *contribute* to projects, Open Source or private, managed by us or someone else.
 
-So whose fault is it if we have worked in the open, produced a pretty code and fully covered unit tests? **Isn't it good enough to be merged**?
+Contributing you say?
 
-Certainly **not**.
+Like opening an issue. And getting frustrated that the idea is not turned into an implementation.
+Like proposing a pull request. And getting frustrated that is does get merged.
+Like forking the project. And getting frustrated no one pays attention to it.
 
-Human beings are communicating and social animals. **Coding is *all* about communicating**.
+Even if it is a beautiful crafted code, properly tested and nicely documented.
 
-This is a tale about a failed *pull request*, how to avoid the tunnel effect, how it finally got merged and why it made it to the *GitHub Explore* page.
+The **55 commits syndrome** is the idea of working so much on the technical aspect we even lose the focus on the essential: the **human communication**.
 
+After all, isn't the code supposed to be a common *language between developers*, blindly followed by machines?
+Let's not be blind against each other.
 
 ## Speaker Bio
 
