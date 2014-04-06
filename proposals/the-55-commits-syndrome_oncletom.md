@@ -12,7 +12,7 @@ To do so, we travel to listen to inspiring people (:wink:), we code JavaScript a
 
 Like opening an **issue**. And getting *frustrated* that the idea is not turned into an implementation.  
 Like proposing a **pull request**. And getting *frustrated* that is does get merged.  
-Like **forking** the project. And getting *frustrated* no one pays attention to it.
+Like **forking** a project. And getting *frustrated* no one pays attention to it.
 
 Even if it is a **beautiful crafted code**, properly *tested* and nicely *documented*.
 
