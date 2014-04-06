@@ -16,7 +16,7 @@ My presentation will include many examples of the unrealistic expectations I enc
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/ruthieb.png)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/ruthieb.jpg)
 
 Ruth has two months experience in web design, 14 years experience being married to a developer, and 35 years experience feeling afraid to ask stupid questions. 
 
