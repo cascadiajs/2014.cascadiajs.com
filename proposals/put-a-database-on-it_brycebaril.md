@@ -19,7 +19,7 @@ I'll demonstrate an example of such a database live, including a device that wil
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/brycebaril.png)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/brycebaril.jpg)
 
 Bryce maintains timestreamdb, a nodebases time-series database, the node_redis module, and generally enjoys nerding out about data.
 
