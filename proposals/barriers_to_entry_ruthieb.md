@@ -1,9 +1,9 @@
 #Barriers to Entry
 
 * Name      : Ruth Baril
-* Twitter   : [@dark_roast_ruth][]
-* GitHub    : [RuthieB][]
-* Website   : [fomolabs.tumblr.com][]
+* Twitter   : http://twitter.com/dark_roast_ruth
+* GitHub    : http://github.com/Ruthieb
+* Website   : http://fomolabs.tumblr.com
 
 ##Abstract
 
