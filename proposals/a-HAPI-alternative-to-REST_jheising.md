@@ -17,7 +17,14 @@ Join us for what is likely to be a lively and heated discussion on the current a
 
 ![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/janedoe.png)
 
-Jim Heising is a designer, engineer and entrepreneur who has been 
+According to legend (aka Mom and Dad) Jim Heising began his software development career on an Apple ][+ before he could read, when he crafted the wildly successful program:
+
+```
+10 PRINT "Jim is great"
+20 GOTO 10
+```
+
+While arguably his career has gone downhill ever since, Jim has had a hell of a lot of fun as a designer, engineer and entreprenuer. As a designer and software engineer, Jim has designed and built a number of successful products ranging from VOIP servers, to industrial control systems, and top-selling mobile apps— he even wrote Perl Jam's first official iPhone app. As an entreprenuer Jim co-founded and took Click Commerce public in 2000, and sold Giant Company Software to Microsoft in 2004. More recently Jim co-founded Red Foundry, Inc. and is currently working on the Internet Of Things (IOT) with http://buglabs.net and http://dweet.io.
 
 [@jimheising]:http://twitter.com/jimheising
 [jheising]:http://github.com/jheising
