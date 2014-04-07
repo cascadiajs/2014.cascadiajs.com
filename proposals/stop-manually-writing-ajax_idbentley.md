@@ -3,16 +3,16 @@
 * Name     : Ian Bentley
 * Twitter  : [@idbentley][]
 * GitHub   : [idbentley][]
-* Company  : [mongodb.org][MongoDB, Inc.]
+* Company  : [MongoDB, Inc.](http://www.mongodb.org)
 
 ## Abstract
 
 Writing AJAX manually is error prone, time consuming, and difficult to test. It requires defining a
 detailed API in some backend framework, in addition to the AJAX code itself on the frontend, which
-ends up being the worst kind of callbacks - laced with conditional statements, and often complex logic.
-Worst of all, if you make even a simple mistake in parsing the data passed from your frontend, you
-end up with a cringe worthy 500 exception with a infinite spinner, or a "Whoops... Something went
-wrong dialog". All this before you've even written any business logic!
+ends up being the worst kind of callbacks.  Worst of all, if you make even a simple mistake in
+parsing the data passed from your frontend, you end up with a cringe worthy 500 exception with an
+infinite spinner, or a "Whoops... Something went wrong dialog". And this is all before you've even
+written any business logic!
 
 There has to be a better way.
 
@@ -31,6 +31,3 @@ Hailing from the great white north, I've been writing full stack code for web ap
 I can well remember.  Currently hacking internal apps at MongoDB, Inc. Interests include Linux, Guitar
 twangs, baking, and frenzied softball playing. I think a lot about Javascript, and the importance of
 making it easier to write robust web applications.
-
-[@idbentley]:http://twitter.com/idbentley
-[idbentley]:http://github.com/idbentley
