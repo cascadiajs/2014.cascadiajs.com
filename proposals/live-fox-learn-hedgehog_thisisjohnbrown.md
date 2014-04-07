@@ -15,7 +15,7 @@ While this relates generally to us as programmers, know that coding is just a fr
 
 ## Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/thisisjohnbrown.jpg)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/thisisjohnbrown.png)
 
 JohnBrown™ is living the dream. Language agnostic, front or backend, browser or physical, he is working on fulfilling projects for Google, Nike, and others. People say he's a pleasure to know, but he would never acknowledge that because of his crippling inability to take a compliment. He's a woodworker, has a green thumb, is a sponge of knowledge, and happily married.
 
