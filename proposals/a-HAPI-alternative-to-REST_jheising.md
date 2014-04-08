@@ -15,7 +15,7 @@ Join us for what is likely to be a lively and heated discussion on the current a
 
 ##Speaker Bio
 
-![](https://dl.dropboxusercontent.com/u/819120/Headshot-2-Medium.jpg)
+![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/jimheising.png)
 
 According to legend (aka Mom and Dad) Jim Heising began his software development career on an Apple ][+ before he could read, when he crafted the wildly successful program:
 
