@@ -20,7 +20,7 @@ Join us for what is likely to be a lively and heated discussion on the current a
 According to legend (aka Mom and Dad) Jim Heising began his software development career on an Apple ][+ before he could read, when he crafted the wildly successful program:
 
 ```
-10 PRINT "Jim is great"
+10 PRINT "Jim is cool"
 20 GOTO 10
 ```
 
