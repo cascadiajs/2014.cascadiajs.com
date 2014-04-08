@@ -9,7 +9,7 @@
 
 In this session we'll see Node.js at use in industrial automation as we examine the world's first and only continuous alcohol still powered by Node.js. We'll see how Node.js, node330 (https://github.com/jheising/node330) and a Linux microprocessor provide a backbone to connect high voltage power controllers, digital temperature probes, barometric pressure sensors, HMI/SCADA, and much more to automate alcohol production in a one-of-a-kind still.
 
-If logistics permit, we might even provide a small sample tasting of alcohol produced on the still, courtesy of the Whidbey Island Distillery (http://whidbeydistillery.com).
+If logistics permit, we might even provide a small sample tasting of alcohol produced on the still, courtesy of the Whidbey Island Distillery (http://whidbeydistillery.com)!
 
 ##Speaker Bio
 
