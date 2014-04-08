@@ -24,7 +24,7 @@ According to legend (aka Mom and Dad) Jim Heising began his software development
 20 GOTO 10
 ```
 
-While arguably his career has gone downhill ever since, Jim has had a hell of a lot of fun as a designer, engineer and entreprenuer. As a designer and software engineer, Jim has designed and built a number of successful products ranging from VOIP servers, to industrial control systems, to top-selling mobile apps— he even wrote Perl Jam's first official iPhone app. As an entreprenuer Jim co-founded and took Click Commerce public in 2000, and sold Giant Company Software to Microsoft in 2004. More recently Jim co-founded Red Foundry, Inc. and is currently working on the Internet Of Things (IOT) with http://buglabs.net and http://dweet.io.
+While arguably his career has gone downhill ever since, Jim has had a hell of a lot of fun as a designer, engineer and entreprenuer. As a designer and software engineer, Jim has designed and built a number of successful products ranging from VOIP servers, to industrial automation systems, to top-selling mobile apps— he even wrote Perl Jam's first official iPhone app. As an entreprenuer Jim co-founded Click Commerce, Inc. and saw it to an IPO in 2000, and sold Giant Company Software to Microsoft in 2004. More recently Jim founded Red Foundry, Inc. and is currently working on the Internet Of Things (IOT) with http://buglabs.net and http://dweet.io.
 
 [@jimheising]:http://twitter.com/jimheising
 [jheising]:http://github.com/jheising
