@@ -1,3 +1,6 @@
+
+# Lessons from teaching 400 people to program JS, and the implications for a world where the number of developers is about to double over the next decade. 
+
 Between 2012 & 2014, for supplemental income while working on a startup, I 
 taught about 400 people JavaScript. From 150 elementary school students to a roomful of Java engineers at GE, 
 I'll be talking about reflections on that path. We need more JS'ers. Here's how to do that, whether it's someone
