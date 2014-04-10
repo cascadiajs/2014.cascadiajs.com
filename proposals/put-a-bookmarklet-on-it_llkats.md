@@ -1,4 +1,4 @@
-#Put a Bookmarklet on It: The Case for Bookmarklets in Everyday Life
+#Bookmarklets FTW: The Case for Bookmarklets in Everyday Life
 
 * Name      : Lydia Katsamberis
 * Twitter   : [@llkats](https://twitter.com/llkats)
@@ -6,7 +6,7 @@
 * Website   : [llkats.com](http://www.llkats.com)
 
 ##Abstract
-So maybe there's a site out there that you love, and it'd be awesome if only there were this one last feature you crave. Whether you're getting started in open source, looking for a new pet project, or just need to change that background color: put a bookmarklet on it!
+So maybe there's a site out there that you love, and it'd be awesome if only there were this one last feature you crave. Whether you're getting started in open source, looking for a new pet project, or just need to change that background color: make a bookmarklet!
 
 Bookmarklets are self-contained bits of JavaScript that enact certain functionality on a webpage. You drag one into your bookmarks bar and then click the bookmark when you're on a site, and instead of navigating somewhere, the bookmarklet triggers an action on the page. They have been around for ages, and their uses range from super useful (send a url somewhere like to Delicious or Pinterest) to super silly (e.g., http://kathack.com/, play Katamari on any website).
 
