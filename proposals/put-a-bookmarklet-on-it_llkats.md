@@ -14,7 +14,7 @@ They also present a fairly approachable mechanism for letting developers -- from
 
 While bookmarklets can enact the same functionality as an extension or user script, they have the advantage of being immediately available to use just by dragging a well-formatted script right into the bookmarks bar.
 
-From personal experience, creating a bookmarklet was a great way to learn not just the methods but also the etiquette of using GitHub to collaborate on code. I made a bookmarklet for the gif chatroom chat.meatspac.es that allowed users to delay their gifs for a few seconds. People really like the extra functionality and it's gotten quite a bit of use. Starting that project really kickstarted my involvement and confidence in contributing code publicly.
+From personal experience, creating a bookmarklet was a great way to learn not just the methods but also the etiquette of using GitHub to collaborate on code. I made a bookmarklet called meatdelay (http://llkats.com/projects/meatdelay/) for the gif chatroom chat.meatspac.es that allowed users to delay their gifs for a few seconds. People really like the extra functionality and it's gotten quite a bit of use. Starting that project really kickstarted my involvement and confidence in contributing code publicly.
 
 Together, we'll explore the history of bookmarklets, creating your own bookmarklets, useful workflows and tools (especially the browser developer console), and maybe demonstrate a few fun bookmarklets.
 
