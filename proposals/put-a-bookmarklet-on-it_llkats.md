@@ -3,7 +3,7 @@
 * Name      : Lydia Katsamberis
 * Twitter   : [@llkats](https://twitter.com/llkats)
 * GitHub    : [llkats](https://github.com/llkats)
-* Website   : [llkats.com](http://www.llkats.com_
+* Website   : [llkats.com](http://www.llkats.com)
 
 ##Abstract
 So maybe there's a site out there that you love, and it'd be awesome if only there were this one last feature you crave. Whether you're getting started in open source, looking for a new pet project, or just need to change that background color: put a bookmarklet on it!
