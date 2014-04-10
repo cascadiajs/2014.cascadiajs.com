@@ -1,9 +1,9 @@
 #Put a Bookmarklet on It: The Case for Bookmarklets in Everyday Life
 
 * Name      : Lydia Katsamberis
-* Twitter   : [@llkats][https://twitter.com/llkats]
-* GitHub    : [llkats][https://github.com/llkats]
-* Website   : [llkats.com][http://www.llkats.com]
+* Twitter   : [@llkats](https://twitter.com/llkats)
+* GitHub    : [llkats](https://github.com/llkats)
+* Website   : [llkats.com](http://www.llkats.com_
 
 ##Abstract
 So maybe there's a site out there that you love, and it'd be awesome if only there were this one last feature you crave. Whether you're getting started in open source, looking for a new pet project, or just need to change that background color: put a bookmarklet on it!
@@ -24,5 +24,5 @@ Together, we'll explore the history of bookmarklets, creating your own bookmarkl
 
 Lydia Katsamberis is a Senior Front End Engineer at Aol. Previously, she was a Front End Engineer at gdgt.com, and a web developer for United Business Media. Lydia loves JavaScript, is a Midwesterner at heart, and enjoys naps in the sun with her cat, Molly.
 
-[@llkats][https://twitter.com/llkats]
-[llkats.com][http://www.llkats.com]
+[@llkats](https://twitter.com/llkats)
+[llkats.com](http://www.llkats.com)
