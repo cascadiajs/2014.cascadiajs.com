@@ -7,7 +7,7 @@
 
 ## Abstract
 
-The more code we write, the more we rely on a build system to keep us from destroying it. But if you're writing a ton of JavaScript in your project already, why mess around with anything else? gulp lets you write node-style JavaScript&mdash;modules, functions, and streams&mdash;to handle everything about your build. And it's fast. I'll explain how to use gulp, what makes it great, how easy it is to make a "plugin" (hint: it's just node require()), and why you should start gulping immediately.
+The more code we write, the more we rely on a build system to keep us from destroying it. But if you're writing a ton of JavaScript in your project already, why mess around with anything else? gulp lets you write node-style JavaScript&mdash;modules, functions, and streams&mdash;to handle everything about your build. And because it relies on node streams, it's super fast. I'll explain how to use gulp, what makes it great, how easy it is to make a "plugin" (hint: it's just node require()), what's new in the all-new v4.0 rewrite, and why you should start gulping immediately.
 
 ## Speaker Bio
 
