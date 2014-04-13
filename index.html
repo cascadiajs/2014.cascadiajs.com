@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- JSConf for the PacNW -->
 <html>
   <head>
     <meta charset='utf-8' />
@@ -11,45 +10,360 @@
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/normalize.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/h5bp.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css" />
+    <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet" />
 
-    <title>CascadiaJS 2014</title>
+    <script src="assets/js/bundle.js" async defer></script>
+
+    <title>CascadiaJS 2014 | Portland, OR</title>
   </head>
 
   <body>
     <div id="container">
         <div id="header">
         </div>
+
         <div id="main">
-            <hgroup>
-                <img src="assets/img/logo@2x.png" width="114" alt="The logo for CascadiaJS" />
+            <div id="id_main" class="group">
+                <div class="wrapped">
+                <img id="logo" src="assets/img/logo@2x.png" width="114" alt="The logo for CascadiaJS" />
                 <h1>CascadiaJS <span class="year">2014</span></h1>
-                <h2>JULY 31-AUGUST 1</h2>
-                <h1 class="smaller"><a href="https://github.com/cascadiajs/2014.cascadiajs.com/tree/master/proposals#call-for-proposals--the-details">call for talks now open!</a></h1>
-            </hgroup>
+                <h2>
+                    <span id="highlight_dates">JULY 31-AUGUST 1</span> |
+                    <span id="highlight_location">Portland, OR</span>
+                </h2>
+                <h3 id="tickets_cta"><a href="#tickets">Buy your tickets here!</a></h3>
+                </div>
+            </div>
+
+            <!-- speakers -->
+            <div id="id_speakers" class="group">
+            	<h2>Speakers</h2>
+            	<div class="wrapped">
+                    <ul id="speakers">
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <!-- end speakers -->
+
+            <!-- venue -->
+            <div id="id_venue" class="group">
+            	<h2>Venue</h2>
+
+                <div id="map">
+                    <!-- cool map story, bro. -->
+                </div>
+
+            	<div class="wrapped">
+                    
+                </div>
+            </div>
+            <!-- end venue -->
+
+
+            <!-- schedule -->
+            <div id="id_schedule" class="group">
+            	<h2>Schedule</h2>
+            	<div class="wrapped">
+                    <table>
+                        <thead>
+                        	<tr>
+                        		<th class="schedule_day_time"></th>
+                        		<th class="schedule_day_one">Day 1: Thursday, July 31st</th>
+                        		<th class="schedule_day_two">Day 2: Friday, August 1st</th>
+                        	</tr>
+                        </thead>
+
+                        <tfoot>
+                            <tr>
+
+                            </tr>
+                        </tfoot>
+
+                        <tbody>
+                            <tr class="schedule_food">
+                            	<th class="schedule_time">8:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">9:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">9:40am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">10:20am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">11:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">11:40am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_food">
+                            	<th class="schedule_time">12:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">1:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">1:50pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">2:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_break">
+                            	<th class="schedule_time">3:00pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">3:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">4:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">4:50pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">5:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_party">
+                            	<th class="schedule_time">6:00pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- end schedule -->
+
+            <!-- sponsors -->
+            <div id="id_sponsors" class="group">
+            	<h2>Sponsors</h2>
+            	<div class="wrapped">
+                    <div class="sponsor_group sponsor_0">
+                        <h3>Async</h3>
+                    </div>
+
+                    <div class="sponsor_group sponsor_1">
+                        <h3>Sync</h3>
+                    </div>
+
+                    <div class="sponsor_group sponsor_2">
+                        <h3>Supporters</h3>
+                    </div>
+
+                    <!-- TODO: get "become a sponsor" link -->
+                    <p id="sponsor_cta">
+                        Interested in supporting artisanally 
+                        crafted, shade-grown local JS developers? 
+                        Help by <a href="#">sponsoring CascadiaJS 2014</a>!
+                    </p>
+                </div>
+            </div>
+            <!-- end sponsors -->
+
             <!-- Begin MailChimp Signup Form -->
             <div id="mc_embed_signup">
-            <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
-                <div class="mc-field-group">
-                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
-                    <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                    <input type="submit" value="Notify me" name="" />
-                </div>
-                <!--<div class="mc-field-group">
-                    <label for="mce-FNAME">First Name </label>
-                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-                </div>
-                <div class="mc-field-group">
-                    <label for="mce-LNAME">Last Name </laGbel>
-                    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-                </div>
-                -->
-                <div id="mce-responses" class="clear">
-                    <div class="response" id="mce-error-response" style="display:none"></div>
-                    <div class="response" id="mce-success-response" style="display:none"></div>
-                </div>
-                <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
-            </form>
+                <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+                    <div class="mc-field-group">
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
+                        <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                        <input type="submit" value="Notify me" name="" />
+                    </div>
+                    <!--<div class="mc-field-group">
+                        <label for="mce-FNAME">First Name </label>
+                        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                    </div>
+                    <div class="mc-field-group">
+                        <label for="mce-LNAME">Last Name </laGbel>
+                        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+                    </div>
+                    -->
+                    <div id="mce-responses" class="clear">
+                        <div class="response" id="mce-error-response" style="display:none"></div>
+                        <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>
+                    <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
+                </form>
             </div>
             <!--End mc_embed_signup-->
 
@@ -59,18 +373,9 @@
             </div>
 
         </div>
+
         <div id="footer">
         </div>
     </div>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-34936942-2', 'cascadiajs.com');
-      ga('send', 'pageview');
-
-    </script>
   </body>
 </html>

@@ -2,11 +2,25 @@
 
 #mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
 
+body {
+    font-size: 100%;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-size-adjust: 0.5;
+}
+
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
 }
+
+#main {
+  font-size: 1em;
+  line-height: 1.25;
+}
+
 
 #container {
     min-height: 100%;
@@ -15,11 +29,6 @@ html, body {
 
 #header {
     border-top: 4px solid #63c1f8;
-}
-
-#main {
-    width: 600px;
-    margin: 0pt auto;
 }
 
 #footer {
@@ -107,3 +116,91 @@ form#mc-embedded-subscribe-form input[type=submit] {
 hgroup { text-align: center; margin-top: 48px; }
 hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
 #twitter-share { text-align: center; margin: 0pt auto; padding-left:32px; }
+
+#map { min-height: 300px; }
+
+.group > .wrapped {
+  width: 320px;
+  margin: 0pt auto;
+}
+
+@media (min-width: 321px) {
+  .group > .wrapped {
+    width: 460px;
+    margin: 0pt auto;
+  }
+}
+
+@media (min-width: 461px) {
+  .group > .wrapped {
+    width: 960px;
+    margin: 0pt auto;
+  }
+}
+
+#speakers {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.speaker {
+  margin: 0;
+  padding: 0;
+  width: 192px;
+  display: inline-block;
+  text-align: center;
+}
+
+.speaker > a {
+  display: block;
+  height: 128px;
+  text-decoration: none;
+}
+
+.speaker > a > span {
+  font-size: 0.75em;
+}
+
+.speaker > a > span:before {
+  content: ' ';
+  background: #CCC;
+  display: block;
+  width: 196px;
+  height: 96px;
+}
+
+#id_schedule table {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+#id_schedule td {
+  padding-bottom: 12px;
+}
+
+#id_schedule tbody tr:first-child td {
+  padding-top: 10px;
+}
+
+#id_schedule thead th {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #EEE;
+}
+
+#id_schedule th {
+  font-size: 0.85em;
+  vertical-align: bottom;
+}
+
+.schedule_day_time,
+.schedule_time {
+  text-align: right;
+}
+
+.schedule_day_one,
+.schedule_day_two,
+.schedule_event {
+  text-align: left;
+  padding-left: 12px;
+}
