@@ -3,7 +3,7 @@
 * Name      : Alex Fernández
 * Twitter   : [@pinchito][]
 * GitHub    : [alexfernandez][]
-* Lanyrd    : [pinchito-lanyrd][]
+* Lanyrd    : [pinchito][]
 
 ##Abstract
 
@@ -33,5 +33,5 @@ He is still a shameless tinkerer.
 
 [@pinchito]:http://twitter.com/pinchito
 [alexfernandez]:http://github.com/alexfernandez
-[pinchito-lanyrd]:http://lanyrd.com/profile/pinchito/
+[pinchito]:http://lanyrd.com/profile/pinchito/
 
