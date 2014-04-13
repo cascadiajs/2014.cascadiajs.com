@@ -21,6 +21,9 @@ Along the way we will see many practical examples, among them:
 * continuous deployment,
 * and decision making.
 
+We will hopefully show you how to choose your tools and processes
+for maximum efficiency, and how to improve upon them.
+
 ###Note for Editors
 
 Full disclosure: 
