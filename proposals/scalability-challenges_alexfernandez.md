@@ -19,6 +19,7 @@ tens of servers, and several MM requests per month. From the particular to the g
 
 ###Note for Editors
 
+Full disclosure:
 This is an update of [a talk](http://slides.com/alexfernandez/scalability-lessons)
 given at [NodeJSConf.it 2014](http://nodejsconf.it/).
 
