@@ -25,11 +25,9 @@ and optimization techniques in general.
 ![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/alexfernandez.png)
 
 Alex Fernández is a Spanish software engineer with more than 15 years of experience.
-After working many years for large companies he got the scalability bug
-and now tries to serve as many requests per second as possible.
-He has met a huge scalability challenge working as a senior developer for MediaSmart Mobile,
-a startup focused on bringing mobile ads to a device near you,
-that routinely serves 20K requests per second.
+After working many years for large companies he has met his biggest scalability challenge
+as a senior developer for MediaSmart Mobile,
+a startup that routinely serves 20K requests per second.
 He is still a shameless tinkerer.
 
 [@pinchito]:http://twitter.com/pinchito
