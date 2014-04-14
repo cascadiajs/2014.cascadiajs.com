@@ -4,10 +4,16 @@
 
 body {
     font-size: 100%;
+    font-family: 'Open Sans', 'Lucida Grande', Helvetica, sans-serif;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
-    font-size-adjust: 0.5;
+    color: #394247;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #4b4b4b;
+    font-family: 'ostrichrounded';
 }
 
 html, body {
@@ -31,6 +37,10 @@ html, body {
     border-top: 4px solid #63c1f8;
 }
 
+#id_social {
+    padding-bottom: 5.0em;
+}
+
 #footer {
     position: absolute;
     bottom: 0;
@@ -38,34 +48,6 @@ html, body {
     height: 8px;
     background: #29832e;
     width: 100%;
-}
-
-hgroup h1 {
-    color: #4b4b4b;
-    font-family: "ostrichblack";
-    font-weight: normal;
-    font-size: 4em;
-    margin-bottom: 0;
-}
-
-a {
-  color: green;
-}
-
-hgroup h1.smaller {
-    font-size: 3em;
-}
-
-hgroup h1 .year {
-    font-family: "ostrichbold";
-    font-weight: normal;
-}
-
-hgroup h2 {
-    margin-top:0;
-    border-top:1px dashed #63c1f8;
-    padding-top:0.5em;
-    font-family: "ostrichlight";
 }
 
 form#mc-embedded-subscribe-form input[type=email] {
@@ -124,6 +106,14 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   margin: 0pt auto;
 }
 
+.group > h2 {
+  font-size:2.5em;
+  padding-bottom: 6px;
+  text-align: center;
+  margin-bottom:18px;
+  position: relative;
+}
+
 @media (min-width: 321px) {
   .group > .wrapped {
     width: 460px;
@@ -138,23 +128,100 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   }
 }
 
+#id_main h1 {
+    font-size: 5.0em;
+    text-align: center;
+    margin-bottom: 0;
+    line-height: 0;
+    margin-top: 1.25em;
+    padding-bottom: 0.25em;
+}
+
+#id_main #year {
+  color: black;
+}
+
+#highlight_dates:after {
+    content:'\2794';
+    padding-left: 6px;
+}
+
+#highlight_location {
+}
+
+#tickets_cta a:visited,
+#tickets_cta a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-color: #64c1f9; 
+    padding:0.3em 0;
+    border: 1px solid white;
+}
+
+#tickets_cta a:hover {
+    color: #64c1f9;
+    border: 1px solid #64c1f9;
+    background-color: white;
+}
+
+
+#tickets_cta {
+    background-color: #64c1f9; 
+    padding:0.1em;
+    width: 460px;
+    margin: 0pt auto;
+    margin-top:1.5em;
+    font-size:3.0em;
+    text-align:center;
+}
+
+#highlights {
+  border-top: 1px solid #4b4b4b;
+  width: 392px; 
+  margin: 0pt auto;
+  margin-top: 0.75em;
+  padding-top: 0.5em;
+  position: relative;
+  font-family: 'ostrichblack';
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#logo_container {
+  background: #64c1f9;
+}
+
+#logo_container #logo {
+  position:relative;
+  bottom: -20px;
+  margin: 0pt auto;
+  text-align: center;
+  width: 75px;
+  display: block;
+}
+
+#id_main .wrapped {
+}
+
 #speakers {
   list-style: none;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .speaker {
   margin: 0;
   padding: 0;
-  width: 192px;
+  width: 188px;
   display: inline-block;
   text-align: center;
+  margin-bottom: 0.75em;
 }
 
 .speaker > a {
   display: block;
-  height: 128px;
   text-decoration: none;
 }
 
@@ -163,11 +230,31 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
 }
 
 .speaker > a > span:before {
-  content: ' ';
-  background: #CCC;
+  content: '?';
+  font-size: 5.0em;
+  font-family: 'ostrichrounded';
+  color: rgba(255, 255, 255, 0.8);
+  background: #7dc8b6;
   display: block;
-  width: 196px;
-  height: 96px;
+  width: 188px;
+  height: 188px;
+  line-height:3.0;
+  transition: all 0.5s ease-in-out;
+}
+
+.speaker:hover > a > span:before {
+  font-size: 10em;
+  line-height: 1.5;
+}
+
+.speaker:nth-child(7n + 1) > a > span:before,
+.speaker:nth-child(2n + 1) > a > span:before {
+  background: #92dba9;
+}
+
+.speaker:nth-child(3n + 2) > a > span:before,
+.speaker:nth-child(8n + 2) > a > span:before {
+  background: #64c1f9;
 }
 
 #id_schedule table {

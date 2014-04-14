@@ -6,10 +6,11 @@
     <meta name="description" content="CascadiaJS 2014: COMING SOON" />
 
     <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="style/assets/css/ostrich-sans/stylesheet.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/ostrich-sans/stylesheet.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/normalize.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/h5bp.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
     <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet" />
 
     <script src="assets/js/bundle.js" async defer></script>
@@ -24,13 +25,15 @@
 
         <div id="main">
             <div id="id_main" class="group">
+                <div id="logo_container">
+                    <img id="logo" src="assets/img/tree.svg" width="75" alt="The logo for CascadiaJS" />
+                </div>
                 <div class="wrapped">
-                <img id="logo" src="assets/img/logo@2x.png" width="114" alt="The logo for CascadiaJS" />
                 <h1>CascadiaJS <span class="year">2014</span></h1>
-                <h2>
-                    <span id="highlight_dates">JULY 31-AUGUST 1</span> |
+                <div id="highlights">
+                    <span id="highlight_dates">July 31st &amp; August 1st</span>
                     <span id="highlight_location">Portland, OR</span>
-                </h2>
+                </div>
                 <h3 id="tickets_cta"><a href="#tickets">Buy your tickets here!</a></h3>
                 </div>
             </div>
@@ -340,40 +343,42 @@
             </div>
             <!-- end sponsors -->
 
-            <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup">
-                <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
-                    <div class="mc-field-group">
-                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
-                        <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                        <input type="submit" value="Notify me" name="" />
-                    </div>
-                    <!--<div class="mc-field-group">
-                        <label for="mce-FNAME">First Name </label>
-                        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-                    </div>
-                    <div class="mc-field-group">
-                        <label for="mce-LNAME">Last Name </laGbel>
-                        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-                    </div>
-                    -->
-                    <div id="mce-responses" class="clear">
-                        <div class="response" id="mce-error-response" style="display:none"></div>
-                        <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>
-                    <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
-                </form>
-            </div>
-            <!--End mc_embed_signup-->
+            <div id="id_social" class="group">
+                <div class="wrapped">
+                <!-- Begin MailChimp Signup Form -->
+                <div id="mc_embed_signup">
+                    <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+                        <div class="mc-field-group">
+                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
+                            <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                            <input type="submit" value="Notify me" name="" />
+                        </div>
+                        <!--<div class="mc-field-group">
+                            <label for="mce-FNAME">First Name </label>
+                            <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-LNAME">Last Name </laGbel>
+                            <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+                        </div>
+                        -->
+                        <div id="mce-responses" class="clear">
+                            <div class="response" id="mce-error-response" style="display:none"></div>
+                            <div class="response" id="mce-success-response" style="display:none"></div>
+                        </div>
+                        <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
+                    </form>
+                </div>
+                <!--End mc_embed_signup-->
 
-            <div id="twitter-share">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-related="cascadiajs">Tweet</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-            </div>
-
+                <div id="twitter-share">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-related="cascadiajs">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+              </div>
+          </div>
         </div>
-
         <div id="footer">
         </div>
     </div>
