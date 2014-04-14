@@ -41,6 +41,12 @@ html, body {
     padding-bottom: 5.0em;
 }
 
+a:visited,
+a {
+  text-decoration: none;
+  color: #54b1e9;
+}
+
 #footer {
     position: absolute;
     bottom: 0;
@@ -114,6 +120,11 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   position: relative;
 }
 
+.group h3 {
+  font-size:2.0em;
+  line-height: 1.0;
+}
+
 @media (min-width: 321px) {
   .group > .wrapped {
     width: 460px;
@@ -121,11 +132,30 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   }
 }
 
-@media (min-width: 461px) {
+@media (min-width: 960px) {
   .group > .wrapped {
     width: 960px;
     margin: 0pt auto;
   }
+
+  .aside {
+    width:288px;
+    float:left;
+  }
+
+  .aside h3 {
+    margin-top:0.333em;
+    margin-bottom:0.5em;
+  }
+}
+
+#portland_long_shot {
+  background: url(../img/portland.jpg) 50% 50% no-repeat fixed;
+  height: 288px;
+}
+
+#id_venue p {
+  line-height: 1.66;
 }
 
 #id_main h1 {
