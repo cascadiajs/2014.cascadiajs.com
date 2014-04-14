@@ -9,20 +9,22 @@
 
 Irreversibility is the enemy of engineers everywhere: it adds complexity and produces frictions
 that slow down development. And if there is something that web developers hate, it is slowdowns!
-At the same time we have to live with irreversible changes.
+At the same time we have to live with irreversible changes or we never move forward.
 Is there any way to tame irreversibility?
 
 Reversible processes are faster and easier to improve upon, and they are within reach of the average developer.
-In this talk we will see how to take reversibility into account
-to improve how we build and deploy software.
-Along the way we will see many practical examples, among them:
+In this talk we will see how to take reversibility into account,
+improving how we build and deploy software.
+Along the way we will see many practical examples, like:
 
 * API design,
 * continuous deployment,
-* and decision making.
+* decision making,
+
+and a few others.
 
 We will hopefully show you how to choose your tools and processes
-for maximum efficiency, and how to improve upon them.
+for maximum efficiency, and how to improve them.
 
 ###Note for Editors
 
