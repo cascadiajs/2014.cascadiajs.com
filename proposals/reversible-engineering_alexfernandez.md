@@ -23,8 +23,9 @@ Along the way we will see many practical examples, like:
 
 and a few others.
 
-We will hopefully show you how to choose your tools and processes
-for maximum efficiency, and how to improve them.
+Beyond a few principles that explain why some things work and some don't,
+the aim is to show the way forward: how to improve our existing toolset,
+and how to evaluate tools and processes that have not even been invented yet.
 
 ###Note for Editors
 
