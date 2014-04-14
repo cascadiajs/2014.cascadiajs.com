@@ -19,7 +19,7 @@ Exploration and discussion of these APIs will be driven by a simple question: "H
 
 David Chang is a front end developer at [HasOffers][] based in Seattle, WA, where he enjoys writing a lot of JavaScript and working in Angular. Some of his open source contributions include [Angular Facebook Utils][] and [ngReact][]. CascadiaJS 2013 was his first programming conference and he was only able to attend because he won a raffle from Rackspace earlier that week.
 
-[@davidchang]:http://twitter.com/davidchang
+[@davidchizzle]:http://twitter.com/davidchang
 [davidchang]:http://github.com/davidchang
 [davidandsuzi.com]:http://davidandsuzi.com
 [wit.ai]:https://wit.ai/
