@@ -7,7 +7,7 @@
 
 ##Abstract
 
-We have all heard that node.js is fast, but what do people exactly mean with "fast"?
+We have all heard that node.js is fast, but what do people exactly mean by "fast"?
 It is very instructive to compare a highly optimized program written in C (memcached)
 to our own node.js clone server (nodecached).
 We can profile and optimize node.js code, reducing the wide margin with memcached,
