@@ -179,6 +179,10 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
 #highlight_location {
 }
 
+#highlights + p {
+  margin-top: 1.333em;
+}
+
 #tickets_cta a:visited,
 #tickets_cta a {
     color: white;
@@ -201,7 +205,7 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
     padding:0.1em;
     width: 460px;
     margin: 0pt auto;
-    margin-top:1.5em;
+    margin-top:0.666em;
     font-size:3.0em;
     text-align:center;
 }
