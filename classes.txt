@@ -1,0 +1,33 @@
+#header
+
+.group
+
+#id_main
+#logo
+h1
+h1 .year
+#highlight_dates            h2 > span
+#highlight_location         h2 > span
+#tickets_cta
+
+#id_speakers
+#speakers
+.speaker
+.speaker a
+.speaker a span
+.unreleased
+.released
+
+#id_sponsors
+#sponsor_cta                    - div > p
+.sponsor_group                  - div > div
+.sponsor_group h3
+.sponsor_{0,1,2}
+
+#id_schedule                    -   div
+.schedule_{food,party,break}    -   tbody > tr
+.schedule_{time,event}          -   tbody > tr > td   
+.schedule_day_{time,one,two}    -   thead > tr > th
+
+#map
+

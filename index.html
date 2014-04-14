@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- JSConf for the PacNW -->
 <html>
   <head>
     <meta charset='utf-8' />
@@ -7,70 +6,455 @@
     <meta name="description" content="CascadiaJS 2014: COMING SOON" />
 
     <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="style/assets/css/ostrich-sans/stylesheet.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/ostrich-sans/stylesheet.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/normalize.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/h5bp.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet" />
 
-    <title>CascadiaJS 2014</title>
+    <script src="assets/js/bundle.js" async defer></script>
+
+    <title>CascadiaJS 2014 | Portland, OR</title>
   </head>
 
   <body>
     <div id="container">
         <div id="header">
         </div>
+
         <div id="main">
-            <hgroup>
-                <img src="assets/img/logo@2x.png" width="114" alt="The logo for CascadiaJS" />
+            <div id="id_main" class="group">
+                <div id="logo_container">
+                    <img id="logo" src="assets/img/tree.svg" width="75" alt="The logo for CascadiaJS" />
+                </div>
+                <div class="wrapped">
                 <h1>CascadiaJS <span class="year">2014</span></h1>
-                <h2>JULY 31-AUGUST 1</h2>
-                <h1 class="smaller"><a href="https://github.com/cascadiajs/2014.cascadiajs.com/tree/master/proposals#call-for-proposals--the-details">call for talks now open!</a></h1>
-            </hgroup>
-            <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup">
-            <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
-                <div class="mc-field-group">
-                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
-                    <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                    <input type="submit" value="Notify me" name="" />
+                <div id="highlights">
+                    <span id="highlight_dates">July 31st &amp; August 1st</span>
+                    <span id="highlight_location">Portland, OR</span>
                 </div>
-                <!--<div class="mc-field-group">
-                    <label for="mce-FNAME">First Name </label>
-                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                <p>
+                    <strong>CascadiaJS</strong> is a two-day, community-driven 
+                    conference on the cutting edge of JavaScript.
+                    Browser, server, OS – we cover it all.
+                </p>
+                <h3 id="tickets_cta"><a href="https://ti.to/event-loop/cascadiajs-2014">Buy your tickets here!</a></h3>
                 </div>
-                <div class="mc-field-group">
-                    <label for="mce-LNAME">Last Name </laGbel>
-                    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-                </div>
-                -->
-                <div id="mce-responses" class="clear">
-                    <div class="response" id="mce-error-response" style="display:none"></div>
-                    <div class="response" id="mce-success-response" style="display:none"></div>
-                </div>
-                <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
-            </form>
-            </div>
-            <!--End mc_embed_signup-->
-
-            <div id="twitter-share">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-related="cascadiajs">Tweet</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
             </div>
 
+            <!-- speakers -->
+            <div id="id_speakers" class="group">
+            	<h2>Speakers</h2>
+            	<div class="wrapped">
+                    <ul id="speakers">
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                        <li class="speaker unreleased">
+                            <a href="#speaker_shortname">
+                                <span>To Be Announced</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <!-- end speakers -->
+
+            <!-- venue -->
+            <div id="id_venue" class="group">
+            	<h2>Venue</h2>
+
+                <div id="map">
+                    <!-- cool map story, bro. -->
+                </div>
+
+            	<div class="wrapped">
+                    <div class="aside">
+                        <h3>Jupiter Hotel</h3>
+                        <p class="address">
+                            800 E Burnside St<br />
+                            Portland, OR 97214<br />
+                            <br />
+                            <a href="tel:+15032309200">(503) 230-9200</a>
+                        </a>
+                    </div>
+                    <p>
+                        The Jupiter Hotel will be the stomping ground 
+                        for CascadiaJS 2014. By taking over the entire 
+                        property, we get a unique opportunity both 
+                        indoors and out to build an awesome couple of 
+                        days of interacting with your JavaScript community.
+                    </p>
+                    <p>
+                        We have approximately 50 rooms for attendees to 
+                        reserve on-site. This is a unique opportunity for 
+                        you to shake off the bedhead, grab a cup of coffee 
+                        from our breakfast station, and get first dibs at 
+                        a good seat for talks to begin. 
+                    </p>
+                    <p>
+                        To arrange your lodging, please look to emails 
+                        following shortly <strong>after</strong> ticket 
+                        purchase that will allow for the hotel add-on, 
+                        as long as it is available. We will be announcing 
+                        alternative lodging and partnerships soon.
+                    </p>
+                    <!-- TODO: image of jupiter hotel
+                    <div class="aside">
+                        <img src="">
+                    </div>
+                    -->
+                </div>
+                <div id="portland_long_shot">
+                </div>
+                <div class="wrapped">
+                    <h3>Travel: Getting to (and around in) Flannelville, USA</h3>
+                    <p>
+                        Portland is the smallest of our collective Cascadian 
+                        tech city centers. The closest airport is PDX, accessible 
+                        by the public transit (MAX) as well as cars. All Trimet passes
+                        are good for rail (MAX), streetcar, as well as the bus system; they
+                        can be purchased at the airport.
+                    </p>
+                    <p>
+                        Carshares are also available via <a href="https://www.car2go.com/en/portland/">car2go</a> and <a href="http://www.zipcar.com/portland">zipcar</a>.
+                    </p>
+                    <p>
+
+                        While Portland does not have an Uber presence, but it does
+                        have its very own driver-owned cab company: Radio Cab! They
+                        can be reached via phone (at <a href="tel:+15032271212">(503) 227-1212</a>) 
+                        and are usually very responsive.
+                    </p>
+                </div>
+            </div>
+            <!-- end venue -->
+
+
+            <!-- schedule -->
+            <!--
+            <div id="id_schedule" class="group">
+            	<h2>Schedule</h2>
+            	<div class="wrapped">
+                    <table>
+                        <thead>
+                        	<tr>
+                        		<th class="schedule_day_time"></th>
+                        		<th class="schedule_day_one">Day 1: Thursday, July 31st</th>
+                        		<th class="schedule_day_two">Day 2: Friday, August 1st</th>
+                        	</tr>
+                        </thead>
+
+                        <tfoot>
+                            <tr>
+
+                            </tr>
+                        </tfoot>
+
+                        <tbody>
+                            <tr class="schedule_food">
+                            	<th class="schedule_time">8:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">9:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">9:40am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">10:20am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">11:00am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">11:40am</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_food">
+                            	<th class="schedule_time">12:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">1:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">1:50pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">2:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_break">
+                            	<th class="schedule_time">3:00pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">3:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">4:10pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">4:50pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr>
+                            	<th class="schedule_time">5:30pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                            <tr class="schedule_party">
+                            	<th class="schedule_time">6:00pm</th>
+                            	<td class="schedule_event"></td>
+                            	<td class="schedule_event"></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            -->
+            <!-- end schedule -->
+
+            <!-- sponsors -->
+            <div id="id_sponsors" class="group">
+            	<h2>Sponsors</h2>
+            	<div class="wrapped">
+                    <!--
+                    <div class="sponsor_group sponsor_0">
+                        <h3>Async</h3>
+                    </div>
+
+                    <div class="sponsor_group sponsor_1">
+                        <h3>Sync</h3>
+                    </div>
+
+                    <div class="sponsor_group sponsor_2">
+                        <h3>Supporters</h3>
+                    </div>
+                    -->
+                    <!-- TODO: get "become a sponsor" link -->
+                    <p id="sponsor_cta">
+                        Interested in supporting artisanally 
+                        crafted, shade-grown local JS developers? 
+                        Help by <a href="/sponsors.html">sponsoring CascadiaJS 2014</a>!
+                    </p>
+                </div>
+            </div>
+            <!-- end sponsors -->
+            
+            <div id="id_sponsors" class="group">
+            	<h2>CascadiaJS &hearts;s You</h2>
+            	<div class="wrapped">
+                    <p>
+                        We are an inclusive, kind community that is constantly growing.
+                        Please find our <a href="/code-of-conduct.html">Code of conduct</a> attached, and try and make your fellow Cascadians (&amp; fellow programmers) feel welcome! 
+                    </p>
+                </div>
+            </div>
+
+            <div id="id_social" class="group">
+                <div class="wrapped">
+                <!-- Begin MailChimp Signup Form -->
+                <div id="mc_embed_signup">
+                    <form action="http://rabasa.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&amp;id=d1b100650c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+                        <div class="mc-field-group">
+                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffa37cf28eebc9e75b8558f3b_d1b100650c" value=""></div>
+                            <input placeholder="Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                            <input type="submit" value="Notify me" name="" />
+                        </div>
+                        <!--<div class="mc-field-group">
+                            <label for="mce-FNAME">First Name </label>
+                            <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-LNAME">Last Name </laGbel>
+                            <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+                        </div>
+                        -->
+                        <div id="mce-responses" class="clear">
+                            <div class="response" id="mce-error-response" style="display:none"></div>
+                            <div class="response" id="mce-success-response" style="display:none"></div>
+                        </div>
+                        <!--<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
+                    </form>
+                </div>
+                <!--End mc_embed_signup-->
+
+                <div id="twitter-share">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-related="cascadiajs">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+              </div>
+          </div>
         </div>
         <div id="footer">
         </div>
     </div>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-34936942-2', 'cascadiajs.com');
-      ga('send', 'pageview');
-
-    </script>
   </body>
 </html>

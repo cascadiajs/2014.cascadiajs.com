@@ -1,0 +1,26 @@
+{
+  "name": "2014.cascadiajs.com",
+  "version": "0.0.0",
+  "description": "CascadiaJS 2014",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy assets/js/index.js:assets/js/bundle.js --live --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cascadiajs/2014.cascadiajs.com.git"
+  },
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cascadiajs/2014.cascadiajs.com/issues"
+  },
+  "homepage": "https://github.com/cascadiajs/2014.cascadiajs.com",
+  "dependencies": {
+    "mapbox.js": "^1.6.2"
+  },
+  "devDependencies": {
+    "beefy": "^1.1.0"
+  }
+}
