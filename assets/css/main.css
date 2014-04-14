@@ -227,6 +227,20 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   background: #64c1f9;
 }
 
+.sub-page #logo_container {
+  padding-top: 0;
+}
+
+.sub-page #logo_container #logo {
+  width: 36px;
+}
+
+.sub-page #id_main h1 {
+  font-size: 2.5em;
+  padding-bottom: 0.666em;
+  border-bottom: 1px solid #4b4b4b;
+}
+
 #logo_container #logo {
   position:relative;
   bottom: -20px;
