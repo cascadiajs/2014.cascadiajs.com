@@ -1,8 +1,8 @@
 # Frontend interviewing for newbs: tips, tricks and game theory
 
 * Name      : Evan Moran
-* Twitter   : [@evanmoran][http://twitter.com/evanmoran/]
-* GitHub    : [evanmoran][http://github.com/evanmoran/]
+* Twitter   : [@evanmoran](http://twitter.com/evanmoran/)
+* GitHub    : [evanmoran](http://github.com/evanmoran/)
 
 ##Abstract
 
