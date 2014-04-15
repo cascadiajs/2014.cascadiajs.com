@@ -7,15 +7,16 @@
 
 ##Abstract
 
-We have all heard that node.js is fast, but what do people exactly mean with "fast"?
+We have all heard that node.js is fast, but what do people exactly mean by "fast"?
 It is very instructive to compare a highly optimized program written in C (memcached)
 to our own node.js clone server (nodecached).
 We can profile and optimize node.js code, reducing the wide margin with memcached,
-and reaching 30k rps on a single core; but we can never close the gap entirely.
+even reaching 30K rps (requests per second) on a single core; but we can never close the gap entirely.
 
-Once you go above 1000 requests per second you have to make every microsecond count.
-Profilers are very useful tools, but they tend to generate too much information.
-In this talk we will show how to profile your code in a different way,
+Once you go above 1000 rps you have to make every microsecond count.
+Profilers are very useful tools, but they tend to generate too much information
+and increase running times considerably.
+In this talk we will show how to profile your code in a different way:
 focusing on hot sections and digging deeper in every iteration.
 In the process we will discuss the merits of node.js, JavaScript
 and optimization techniques in general. 
