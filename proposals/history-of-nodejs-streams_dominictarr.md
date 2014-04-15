@@ -20,6 +20,6 @@ After a couple of years exploring dynamic forrest, Dominic has been been scaling
 mountains of systems programming, and has recently begun spelunking the crypto-caves.
 Available for interesting side quests. Chaotic Good.
 
-![https://raw.githubusercontent.com/feross/cyberhobo/master/img.jpg]
+![javascript-wizzardz](https://raw.githubusercontent.com/feross/cyberhobo/master/img.jpg)
 
 ---
