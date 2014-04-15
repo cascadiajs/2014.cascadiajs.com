@@ -1,4 +1,3 @@
-
 # Mob Programming - Making JS Better Together
 
 ## Abstract
@@ -14,7 +13,7 @@ Also, check out what people have to say about #MobProgramming on Twitter!
 
 ## Speaker Bio
 
-![](../image/benzuillsmith.jpg)
+![](../images/benzuillsmith.jpg)
 
 * Name      : Ben Zuill-Smith
 * Twitter   : [@bzuillsmith](https://twitter.com/bzuillsmith)
