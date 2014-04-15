@@ -1,9 +1,9 @@
 #A GIF Odyssey
 
 * Name      : Glen Maddern
-* Twitter   : [@glenmaddern][https://twitter.com/glenmaddern]
-* GitHub    : [geelen][https://github.com/geelen]
-* Website   : [glenmaddern.com][http://glenmaddern.com/]
+* Twitter   : [@glenmaddern](https://twitter.com/glenmaddern)
+* GitHub    : [geelen](https://github.com/geelen)
+* Website   : [glenmaddern.com](http://glenmaddern.com/)
 
 ##Abstract
 
@@ -41,6 +41,6 @@ While I have presented this topic before, the talk itself changes as I discover 
 
 Glen Maddern is an independent web developer from Melbourne, Australia, with a background in mathematical simulations and distributed computing. Since 2009, he's been working exclusively on the web and most recently, almost entirely on the front-end. He believes there's never been a more potent target for ideas than the browser and the web, and loves the incredible pace at which new ideas are emerging, and the new ways ideas can be demonstrated, shared and built upon. He runs the Melbourne AngularJS meetup and is an organiser of the inaugural CSSConf AU.
 
-[@glenmaddern][https://twitter.com/glenmaddern]
-[geelen][https://github.com/geelen]
-[glenmaddern.com][http://glenmaddern.com/]
+[@glenmaddern](https://twitter.com/glenmaddern)
+[geelen](https://github.com/geelen)
+[glenmaddern.com](http://glenmaddern.com/)
