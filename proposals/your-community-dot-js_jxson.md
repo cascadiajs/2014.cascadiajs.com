@@ -20,7 +20,7 @@ I'll share a little history about js.la and a bunch of tips about organizing, le
 
 ![jxson](../images/jxson.png)
 
-I was an organizer of [JS.LA][jsla] before relocating to Mountian View to work with as a Web Developer at Google. I have an almost disturbing love for JS. I spent some time doing punk/ DIY shows before my software career which provides a unique set of experiences for organizing tech events like JS.LA.
+I was an organizer of [JS.LA][jsla] before relocating to Mountain View to work as a Web Developer at Google. I have an almost disturbing love for JS. I spent some time doing punk/ DIY shows before my software career which provides a unique set of experiences for organizing local tech events.
 
 [@jxson]: https://twitter.com/jxson
 [jxson]: https://github.com/jxson
