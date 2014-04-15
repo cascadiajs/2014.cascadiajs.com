@@ -7,7 +7,7 @@
 
 ##Abstract
 
-It has never been easier to create robots these days thanks to JavaScript, the Arduino, and libraries such as Johnny Five. However, the Arduino/Johnny Five combination isn’t well suited for certain types of NodeBots, especially ones that need more computing power. A newer alternative to the Arduino is the Raspberry Pi, which has all the power you could ever need for your NodeBot and can run Linux comfortably. The downside? There aren’t any easy to use tools like Johnny-Five, so getting your development environment set up requires jumping through a few hoops.
+It has never been easier to create robots these days thanks to JavaScript, the Arduino, and libraries such as Johnny Five. However, the Arduino/Johnny Five combination isn’t well suited for certain types of NodeBots, such as nodebots that need to run disconnected from a computer and/or need to control higher-end computer peripherals directly. A newer alternative to the Arduino is the Raspberry Pi, which has all the power you could ever need for your NodeBot and can run Linux comfortably. The downside? There aren’t any easy to use tools like Johnny-Five, so getting your development environment set up requires jumping through a few hoops.
 
 The first half of the talk will cover how to get your development environment set up, including installing the Raspbian OS on the Raspberry Pi, configuring the Raspberry Pi for headless access via SSH, and installing the correct version of Node.js and NPM. The second half of the talk will cover some best practices and workflows for developing the code, including separating hardware interaction from the rest of the app and simulating the hardware on a laptop.
 
