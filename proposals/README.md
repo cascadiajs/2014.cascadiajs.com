@@ -2,7 +2,9 @@
 
 We are inviting the JavaScript community to submit talks for CascadiaJS 2014 in Portland, OR. This Call for Proposals will close on April 15. When you’re ready to submit a proposal, go [HERE](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md#how-to-submit-a-proposal).
 
-Diversity of voices is important to our community, so please don't think that you need to be a JS celebrity in order to speak at CascadiaJS. The deadline to submit a proposal is **April 15, 2014**. You are free to submit (and even revise) proposals up until that date. Please follow the instructions below and help us spread the word!
+Diversity of voices is important to our community, so please don't think that you need to be a JS celebrity in order to speak at CascadiaJS. The deadline to submit a proposal is **April 15, 2014 11:59pm UTC-1200**. If it's still April 15th, no matter where you are in the world, you still have time!
+
+You are free to submit (and even revise) proposals up until that date. Please follow the instructions below and help us spread the word!
 
 ### PERKS
 The following items are taken care of by us:
