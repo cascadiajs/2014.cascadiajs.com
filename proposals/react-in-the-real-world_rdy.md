@@ -3,12 +3,12 @@
 * Name      : Ryan Dy
 * Twitter   : [@rdy][]
 * GitHub    : [rdy][]
-* Website   : [http://ryandy.com/][]
+* Website   : [http://ryandy.com][]
 
 ##Abstract
 
-In the last 4 months, I have incrementally converted both green-field and an already-shipping BackboneJS+Rails
-web applications to use ReactJS. This talk contains practical, hard-won advice on how we did this with a very small team 
+In the last 4 months, I have incrementally converted both green-field and already-shipping Backbone.js+Handlebars+Rails
+web applications to use React. This talk contains practical, hard-won advice on how we did this with a very small team 
 while still delivering features to our thousands of users at a sustainable pace.
 
 ##Speaker Bio
