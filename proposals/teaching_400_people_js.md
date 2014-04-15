@@ -1,0 +1,4 @@
+## Lessons from teaching 400 people to program JS... 
+###...and the implications for a world where the number of developers is about to double over the next decade. 
+
+Between 2012 & 2014, for supplemental income while working on a startup, I taught about 400 people JavaScript. From 150 elementary school students drawing with svg and flying nodecopters to a roomful of Java engineers at GE learning about responsive design for the first time, I'll be talking about reflections on that path. We need more people who understand what the web is capable of, and that means significantly more than just learning about control structures and the prototype chain. It means coming into a new way of seeing what is possible, and how the web will soon be integrated nearly universally into business processes.
