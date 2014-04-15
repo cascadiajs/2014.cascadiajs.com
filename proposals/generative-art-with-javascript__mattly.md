@@ -7,12 +7,13 @@
 
 # Abstract
 
-Many artists and designers are learning how to code, and this is a great
-thing, but I want to teach coders a bit about the principles of visual
-composition.  We'll use algorithms and functional programming to explore the
-principles of line, shape, pattern, tone, balance, contrast, harmony and
-variety to produce abstract pieces you can print.  I'll use svg and d3 for
-the demos and code examples, but the principles apply to any technology.
+Artists and designers are learning how to code, and I want programmers to meet
+them halfway.  Using algorithms and functional programming, I'll teach you the
+principles of visual composition using svg and d3.  Appreciate the math in art
+and the beauty in math, create art you can print, and the principles apply to
+any kind of visual composition, regardless of language, library, or utility.
+
+Just one brief [example][generative-art-with-javascript/index.html]
 
 # Personal Bio
 
