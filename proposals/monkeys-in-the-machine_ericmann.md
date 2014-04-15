@@ -16,7 +16,7 @@ Attendees will walk away with a better understanding of asynchronous behavior an
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/ericmann.png)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/ericmann.png)
 
 Eric Mann is a seasoned web developer with experience in languages from JavaScript to Ruby to C#.  He has been building websites of all shapes and sizes for the better part of a decade and continues to experiment with new technologies and techniques.
 
