@@ -11,8 +11,7 @@ My talk will present the Hulu living room architecture that allows us to quickly
 
 
 ##Speaker Bio
-
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/Quazie.jpeg)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/Quazie.jpeg)
 
 Quazie Kwaselow has always loved photos and videos, and has spent the past four and a half years ensuring that users have great experiences with them.  After working for three years at Microsoft on photo organization and editing software, including one of the first Windows 8 photography apps, he now works at Hulu developing VOD apps for systems such as XBOX One and Apple TV.
 
