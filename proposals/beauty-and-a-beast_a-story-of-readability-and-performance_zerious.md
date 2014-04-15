@@ -17,6 +17,6 @@ JavaScript engine if we don't run amazing code on it?
 ![Sam Eubank](https://avatars.githubusercontent.com/u/6846442?s=256)
 
 Sam Eubank ([GitHub](https://github.com/zerious), [Twitter](https://twitter.com/sameubank),
-[LinkedIn](https://twitter.com/in/sameubank)) is a full-stack developer who has been writing JavaScript since
-1997. He was a core contributor on Amazon's JavaScript Excellence Team and spoke about Node.js at Amazon's
-WebDevCon 2013. Since leaving Amazon, Sam has been building JavaScript tools for the rest of us.
+[LinkedIn](https://www.linkedin.com/in/sameubank)) is a full-stack developer who has been writing JavaScript
+code since 1997. He was a core contributor on Amazon's JavaScript Excellence Team and spoke about Node.js at
+Amazon's WebDevCon 2013. Since leaving Amazon, Sam has been building JavaScript tools for the rest of us.
