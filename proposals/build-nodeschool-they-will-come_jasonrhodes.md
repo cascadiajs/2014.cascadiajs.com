@@ -1,4 +1,4 @@
-# Build a nodeschool and they will come
+# Which Community is the Best?
 
 * Name      : Jason Rhodes
 * Twitter   : [@rhodesjason](http://twitter.com/rhodesjason)
@@ -7,15 +7,15 @@
 
 ## Abstract
 
-I inexplicably decided to start my own [nodeschool](http://nodeschool.io) event in Baltimore after hearing about it on the [nodeup podcast](http://nodeup.com/fiftyfive). I had no relevant experience at all and no reason to believe it wouldn't end in a total disaster. Before I really knew what was happening, I had people across the country sending advice, local strangers offering up an amazing venue, and a ton of local interest and excitement for the event itself. 
+I've spent my programming career being on the edges of all kinds of tech communities--JavaScript, PHP, Ruby, WordPress, CSS, Front End Development, the list goes on. But which community is the greatest, the most awesome, the absolute bestest ever? In this talk I'll settle that question for good, explaining why community works at all, how to get involved, and why you should care in the first place. You don't have to become a "community celebrity ninjastar" to benefit from community. As a guy you've probably never heard of, I should know!
 
-Don't have any events in your area? What are you waiting for? If you're interested in what nodeschool is, some ideas about why it's popular, how to start your own event, or how to contribute to nodeschool in other ways, come hear a guy you've never heard of (that's me!) share what he's learned from getting [baltimore nodeschool](http://baltimorenodeschool.github.io) off the ground.
+_Note: the title is a trick question._
 
 ## Speaker Bio
 
 !["Jason Rhodes bio pic"](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/rhodesjason.png)
 
-Jason is the lead developer at Johns Hopkins University, the organizer of [baltimore nodeschool](http://baltimorenodeschool.github.io), an open-source contributor and a frequent [screencast instructor](https://tutsplus.com/author/rhodesjason/) for Nettuts.com. His next video course, "Node for the Front-End Developer", is due out in the summer of 2014.
+Jason is the lead developer at Johns Hopkins University, the organizer of [baltimore nodeschool](http://baltimorenodeschool.github.io), an open-source contributor, and a frequent [screencast instructor](https://tutsplus.com/author/rhodesjason/) for Nettuts.com. His next video course, "Node for the Front-End Developer", is due out in the summer of 2014.
 
 [:twitter:/@rhodesjason](http://twitter.com/rhodesjason)
 [:github:/jasonrhodes](http://github.com/jasonrhodes)
