@@ -1,9 +1,9 @@
 # AllNightRave.js
 
 * Name			: Floh Herra-Vega
-* Twitter		: [@flohdot]
-* GitHub		: [flohdot]
-* Website		: [flohdot.org]
+* Twitter		: [@flohdot](http://twitter.com/flohdot)
+* GitHub		: [flohdot](http://github.com/flohdot)
+* Website		: [flohdot.org](http://flohdot.org)
 
 ## Abstract
 
