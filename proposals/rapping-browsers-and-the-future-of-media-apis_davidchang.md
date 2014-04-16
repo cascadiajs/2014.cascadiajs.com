@@ -7,11 +7,12 @@
 
 ##Abstract
 
-Media APIs are beginning to land more support in modern browsers - between speech recognition and synthesis, audio, MIDI, and timed track APIs, the future is bright and the possibilities endless. The question then is what developers will do with them.
+How can I get my browser to rap? It's the age-old question, the Traveling Salesman of web development, the ECMAScript standard we have yet to realize we need. But we're closer than you think - modern browsers are pushing the web forward and soon, they will be doing so via rap.
 
-Projects like [wit.ai][] and libraries like [annyang][] indicate the feasibility of speech-driven web apps. Even rudimentary demonstrations can show browsers listening to and repeating speech (and in a variety of accents, as if that weren't enough). But this is just scratching the surface - this talk will highlight basic usage and capabilities of various media APIs and how they can be combined to create more advanced media-centric features and applications.
+This talk will explore the rapping browser problem by explaining and demonstrating capabilities of the speech synthesis and timed track APIs. (This could also easily expand into covering speech recognition, web audio, and MIDI APIs as well).
 
-Exploration and discussion of these APIs will be driven by a simple question: "How can I get my browser to rap?" Answering this question will provide a journey through crowdsourced captioning/timing of songs and the speech synthesis and time tracking APIs to reproduce those songs (and in a variety of accents, as if that weren't enough).
+Projects like [wit.ai][] and libraries like [annyang][] are pointing towards a more speech and media-centric web and are evidence that we can already build speech-driven applications today. Rapping browsers is a slightly more advanced manifestation of this and will serve as the guiding theme to discuss the current state of audio and speech in today's browser landscape and where it is heading.
+
 
 ##Speaker Bio
 
