@@ -7,6 +7,8 @@
 
 ##Abstract
 
+React provides an excellent basis for building real-time UIs with javascript. Pairing it with existing libraries such as Backbone allows us to take advantage of the best these frameworks have to offer, without having to re-architect everything.
+
 In the last 4 months, we have incrementally converted both green-field and already-shipping Backbone.js+Handlebars+Rails
 web applications to use React. Why did we feel the need to move to React in these applications? What benefits did we get? 
 What problems did we encounter? What future benefits do we anticipate?  This talk contains practical, hard-won advice on how we 
