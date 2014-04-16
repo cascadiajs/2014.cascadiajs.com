@@ -7,7 +7,7 @@
 
 ##Abstract
 
-What's different about Node.js as a technology and community from other srever-side stacks that have come and gone?
+What's different about Node.js as a technology and community from other server-side stacks that have come and gone?
 For those of us who have been through the rapid adoption cycles of Smalltalk, Tcl, Java, .NET, Ruby, and other server-side technologies,
 Node.js can seem like another distracting flash-in-the-pan. In this talk, I outline various operations- and programming-level
 issues each of these previous technologies ultimately posed, and how Node.js currently skirts nearly all of them and 
