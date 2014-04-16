@@ -21,7 +21,7 @@ registry.
 
 ## Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/rmg.jpeg)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/rmg.png)
 
 I'm leading the DevOps charge at StrongLoop where I'm automating all the things
 and helping developers push to production. Some call it tools, some call it
