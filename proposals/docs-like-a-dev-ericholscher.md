@@ -8,9 +8,9 @@
 ##Abstract
 
 Writing documentation feels like a totally different world than writing code.
-This talk will introduce developers to writing documentaiton in more familiar way.
+This talk will introduce developers to writing documentation in more familiar way.
 We will talk about writing docs,
-and view it through the lense of writing code.
+and view it through the lens of writing code.
 
 We'll start with review of why documentation is important.
 I find that any presentation to developers should include this section,
@@ -23,7 +23,7 @@ Then we'll cover the following concepts, applied to docs:
 * Semantic Meaning (Semantic HTML)
 * Testing
 * Continuous Integration
-* Reproducability
+* Reproducibility
 
 After this talk,
 writing documentation should feel like less of a chore.
