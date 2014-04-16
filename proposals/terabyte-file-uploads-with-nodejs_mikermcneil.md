@@ -9,7 +9,7 @@
 
 File uploads in Node.js have gone through some tribulations recently.  Express uses Connect’s bodyParser, which works a lot like PHP file uploads.  Unfortunately, this creates a [security/DoS risk](http://andrewkelley.me/post/do-not-use-bodyparser-with-express-js.html).  What you’ll likely run into first though, is that this solution is completely untenable for the really big file uploads (i.e. anything bigger than a server’s disk space).
 
-#####In this talk, I’ll discuss:
+####In this talk, I’ll discuss:
 - How file uploads work currently with the default Connect bodyParser
 - Ways to work around this by deleting temporary files
 - How file uploads work currently in Node.js to hosts like S3, OpenStack Swift, Azure, Box.net, DropBox, Gravatar, Google Drive, etc. 
