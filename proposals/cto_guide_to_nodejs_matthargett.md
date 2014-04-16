@@ -3,12 +3,12 @@
 * Name      : Matt Hargett
 * Twitter   : [@syke][]
 * GitHub    : [matthargett][]
-* Website   : [http://themakingofthemakingof.com][]
+* Website   : [http://themakingofthemakingof.com ][]
 
 ##Abstract
 
 What's different about Node.js as a technology and community from other srever-side stacks that have come and gone?
-For those of us who have been through the rapid adoption cycles of Smalltalk, Tcl, Java, C#, Ruby, and other server-side technologies,
+For those of us who have been through the rapid adoption cycles of Smalltalk, Tcl, Java, .NET, Ruby, and other server-side technologies,
 Node.js can seem like another distracting flash-in-the-pan. In this talk, I outline various operations- and programming-level
 issues each of these previous technologies ultimately posed, and how Node.js currently skirts nearly all of them and 
 proves itself to be a pragmatic, defensible, and production-ready basis for any product or portfolio.

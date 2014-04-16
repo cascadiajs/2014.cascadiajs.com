@@ -3,7 +3,7 @@
 * Name      : Ryan Dy
 * Twitter   : [@rdy][]
 * GitHub    : [rdy][]
-* Website   : [http://ryandy.com][]
+* Website   : [http://ryandy.com ][]
 
 ##Abstract
 
