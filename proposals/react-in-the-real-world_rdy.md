@@ -7,9 +7,10 @@
 
 ##Abstract
 
-In the last 4 months, I have incrementally converted both green-field and already-shipping Backbone.js+Handlebars+Rails
-web applications to use React. This talk contains practical, hard-won advice on how we did this with a very small team 
-while still delivering features to our thousands of users at a sustainable pace.
+In the last 4 months, we have incrementally converted both green-field and already-shipping Backbone.js+Handlebars+Rails
+web applications to use React. Why did we feel the need to move to React in these applications? What benefits did we get? 
+What problems did we encounter? What future benefits do we anticipate?  This talk contains practical, hard-won advice on how we 
+arrived at answers to these questions and executed on those answers in a very small team while still delivering features to our thousands of users.
 
 ##Speaker Bio
 
