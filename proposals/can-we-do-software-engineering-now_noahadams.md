@@ -23,5 +23,5 @@ In this talk I will discuss:
 
 Noah makes very much unintended use of the DOM and crafts suspiciously long URLs as an engineer on Mobify's product team. He used to do distributed computing at Apple, and in his spare time he likes to spend far too long scanning photographic negatives.
 
-[@noah_adams]:http://twitter.com/noah_adams
-[noahadams]:http://github.com/noahadams
+[@noah_adams](http://twitter.com/noah_adams)
+[noahadams](http://github.com/noahadams)
