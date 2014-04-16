@@ -14,7 +14,7 @@ This talk looks at how people with disabilities use the web, and at the many CSS
 
 ## Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/noidontdig.jpg)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/noidontdig.png)
 
 Currently living in NYC and front end developing at [bloglovin](http://bloglovin.com). Spends lots of time thinking about how to make the web and programming accessible to all. Loves code, music, food & [drink](http://github.com/noidontdig/gitdown).
 
