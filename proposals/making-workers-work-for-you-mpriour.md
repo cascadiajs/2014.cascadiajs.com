@@ -18,6 +18,6 @@ This talk will attempt to answer all of these questions while holistically exami
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/mpriour.jpeg)
+![](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/mpriour.jpeg)
 
 Matt Priour works for Esri pushing forward the capabilities of what can be done client-side in their javascript mapping API. He previously contributed to and consulted on using open-source mapping projects OpenLayers, GeoExt, and GeoExt 2. You can find him spending time with his family in outdoor pursuits, gardening, or bird-watching when not in front of a computer.
