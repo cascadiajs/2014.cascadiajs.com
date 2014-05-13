@@ -340,3 +340,81 @@ p {
   text-align: left;
   padding-left: 12px;
 }
+
+.sponsor-group {
+  text-align: center;
+}
+
+.sponsor { 
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1em;
+}
+
+.sponsor a {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.tera .sponsor {
+  width: 48%;
+}
+
+.giga .sponsor {
+  width: 33%;
+}
+
+.mega .sponsor {
+  width: 25%;
+}
+
+
+.andyet {
+  background-image: url('../img/sponsors/andyet.svg');
+  height: 200px; 
+}
+
+.uplift {
+  background-image: url('../img/sponsors/uplift.svg');  
+  height: 200px; 
+}
+
+.twilio {
+  background-image: url('../img/sponsors/twilio.png');  
+  height: 110px; 
+}
+
+.sauce-labs {
+  background-image: url('../img/sponsors/sauce-labs.png');  
+  height: 110px; 
+}
+
+.esri {
+  background-image: url('../img/sponsors/esri.svg');  
+  height: 110px; 
+  position: relative;
+  left: -2%;
+}
+
+.github {
+  background-image: url('../img/sponsors/github.png');  
+  height: 110px; 
+}
+
+.concurix {
+  background-image: url('../img/sponsors/concurix.png');
+  height: 45px; 
+  position: relative;
+  right: -2%;
+}
+
+/* andyet uplift twilio esri sauce-labs github concurix */
+.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top left;
+  overflow:hidden;
+  text-indent: -9999px;
+}
