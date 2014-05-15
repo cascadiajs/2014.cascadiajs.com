@@ -6,11 +6,13 @@
 
 ##Abstract
 
-The 10x programmer is a unicorn. We love to lionize the amount of dedication, time and thought goes into creating great software but we forget the very real cost it can entail both emotionally and physically on the programmer. Depression, RSI, Burnout. These are all real issues facing our field.
+The 10x programmer is a unicorn. We love to lionize the amount of dedication, time, and thought that goes into creating great software -- but we forget the very real cost it can entail, both emotionally and physically, on the programmer. Depression, RSI, burnout: these are all real issues facing our field.
 
-I’ve dealt with RSI myself for the past 9 month and I’d like to share how what I learned got me back on track to being healthy. I do not come with quick fixes and bullet list of things to do to stop these from happening. Indeed you can't. Preventative measures only go so far. One does not simply walk into good health.
+I have many friends who have dealt with these, and I've dealt with RSI myself. I'd like to share my experience and all the mistakes I have made while dealing with them.
 
-One can be aware of what to think and worry about. Where to spend our time mindfully and what warning signs to look out for.
+I do not come with quick fixes or a bullet list. Preventative measures only go so far. One does not simply walk into good health. It is a methodical process.
+
+One can, though, be aware of what to think and worry about, and how to deal and go forward if one is dealing with health problems. I promise you knowledge, laughs, and the ability to help anyone going through these issues, be it a friend or yourself.
 
 And above all...
 
