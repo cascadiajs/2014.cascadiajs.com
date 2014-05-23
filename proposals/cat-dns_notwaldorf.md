@@ -1,9 +1,9 @@
 #Cat-DNS: a DNS server that resolves everything to cats
 
 * Name      : Monica Dinculescu
-* Twitter   : [@notwaldorf][]
-* GitHub    : [notwaldorf][]
-* Website   : [http://notwaldorf.github.io/][]
+* Twitter   : [@notwaldorf](http://twitter.com/notwaldorf)
+* GitHub    : [notwaldorf](http://github.com/notwaldorf)
+* Website   : [http://notwaldorf.github.io/](http://notwaldorf.github.io)
 
 ##Abstract
 
@@ -25,6 +25,6 @@ definitely be cats.
 
 ##Speaker Bio
 
-![](https://raw.github.com/cascadiajs/2013.cascadiajs.com/master/images/notwaldorf.png)
+![](/images/notwaldorf.png)
 
 Monica is a developer at Google. She works on Chrome and has probably at least once broken the Internet for you. She is also a co-organizer of the Montreal [All-Girl Hack Night](http://mtlallgirlhacknight.ca/) and runs the Montreal chapter of [Code for Kids](http://codeforkids.ca/collections/montreal).
