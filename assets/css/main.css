@@ -130,6 +130,10 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
     width: 460px;
     margin: 0pt auto;
   }
+
+  .organizer {
+    width: 208px;
+  }
 }
 
 @media (min-width: 960px) {
@@ -146,6 +150,10 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   .aside h3 {
     margin-top:0.333em;
     margin-bottom:0.5em;
+  }
+
+  .organizer {
+    width: 220px;
   }
 }
 
@@ -418,4 +426,68 @@ p {
   background-position: top left;
   overflow:hidden;
   text-indent: -9999px;
+}
+
+.organizer {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0.75em;
+    vertical-align: top;
+    padding-left: 6px;
+}
+
+.organizer > h3 {
+    background: #7dc8b6;
+    margin-bottom: 0.25em;
+    padding: 8px 0px;
+    color: white;
+    position: relative;
+}
+
+.organizer > h3:after {
+    width: 0;
+    height: 0;
+    border: 16px solid transparent;
+    border-top-color: #7dc8b6;
+    content: ' ';
+    display: block;
+    position: absolute;
+    bottom: -32px;
+    left: 86px;
+}
+
+.organizer:nth-child(7n + 1) > h3:after,
+.organizer:nth-child(2n + 1) > h3:after {
+    border-top-color: #92dba9;
+}
+
+.organizer:nth-child(7n + 1) > h3,
+.organizer:nth-child(2n + 1) > h3 {
+    background: #92dba9;
+}
+
+.organizer:nth-child(3n + 2) > h3:after,
+.organizer:nth-child(8n + 2) > h3:after {
+    border-top-color: #64c1f9;
+}
+
+.organizer:nth-child(3n + 2) > h3,
+.organizer:nth-child(8n + 2) > h3 {
+    background: #64c1f9;
+}
+
+
+.organizer > p {
+    font-size: 0.75em;
+}
+
+.organizer > img {
+    width: 100%;
+    margin-bottom: 0.5em;
+}
+
+.organizer > a {
+    margin-bottom: 0px;
 }
