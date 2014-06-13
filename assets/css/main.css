@@ -419,8 +419,15 @@ p {
   right: -2%;
 }
 
-/* andyet uplift twilio esri sauce-labs github concurix */
-.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix {
+.digital-ocean {
+  background-image: url('../img/sponsors/digital-ocean.png');
+  height: 45px; 
+  position: relative;
+  right: -2%;
+}
+
+/* andyet uplift twilio esri sauce-labs github concurix digital-ocean*/
+.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix .digital-ocean{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top left;
