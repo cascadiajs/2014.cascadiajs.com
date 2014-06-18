@@ -67,7 +67,7 @@ Conduct](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/code-of-c
 It absolutely applies to these projects! Check it out! And of course, "Don't be
 a jerk."
 
-If you have any questions about this process or need more informatio, please
+If you have any questions about this process or need more information, please
 don't hesitate to reach out to us at
 [info@cascadiajs.com](info@cascadiajs.com).
 Thanks, The CascadiaJS Team
