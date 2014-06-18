@@ -11,16 +11,17 @@ implemented using JavaScript! That could mean blinking lights. It could be an
 immersive sound and light show. It could be an interaction with our attendees
 that makes them contemplate the meaning of the number 42. The exhibit will kick
 off the evening of July 30 as all of our attendees arrive and register, then
-entering the opening party and show. Works will be on display through the main event
-space, halls, registration, and hacker zone. Ideally, the submissions are
-stand-alone projects that require no equipment or displays provided by the
-conference. At this point we can only commit to providing a projector for
-in-browser works to be displayed. If we notice a pattern in submissions, such
-as hoping for sound collection or a web socket being useful, we could allocate
-resources towards it. We hope for projects that are interactive for attendees
-and evolving as the weekend progresses. Projects would be setup and taken down
-by their makers unless circumstances have been coordinated and agreed to prior
-by the conference.
+entering the opening party and show. Works will be on display through the main 
+event space, halls, registration, and hacker zone. 
+
+Ideally, the submissions are stand-alone projects that require no equipment or 
+displays provided by the conference. At this point we can only commit to providing
+a projector for in-browser works to be displayed. If we notice a pattern in 
+submissions, such as hoping for sound collection or a web socket being useful, 
+we could allocate resources towards it. We hope for projects that are interactive 
+for attendees and evolving as the weekend progresses. Projects would be setup and 
+taken down by their makers unless circumstances have been coordinated and agreed to 
+prior by the conference.
 
 We'll greenlight projects as soon as the deadline hits July 1st, as we
 recognize how short this timeline will be. All makers will have a check-in one
