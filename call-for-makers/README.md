@@ -1,5 +1,8 @@
 ## CALL FOR MAKERS – THE DETAILS
 
+![Ben Purdy rocks](http://static.squarespace.com/static/522958eae4b0c7795a1614e9/52dde5d4e4b02ffcb6b7bc1c/52df694de4b084050d4ddc36/1390373238016/home-minecraft.jpg?format=1500w)
+[Real Life Minecraft Block](http://www.benpurdy.com/minecraft-block) by Ben Purdy
+
 We are inviting the JavaScript community to submit projects to the JavaScript
 Art Exhibit for CascadiaJS 2014 in Portland, OR. This Call for Makers will
 close on July 1st. When you’re ready to submit a proposal, follow the
