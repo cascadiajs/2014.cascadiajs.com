@@ -44,19 +44,20 @@ Please note that all reimbursements will be via PayPal.
 First, make sure you're available. Opening night is July 30th, and the
 conference fun doesn't end until Aug. 2 at brunch.
 * Create a [GitHub account](github.com) if you don't have one already
-* Fork this repository
-* Checkout the `master` branch
-* Create and commit a markdown (`.md`) file in this directory named after the project title and your GitHub ID.
+* Go to [Call for Makers](https://github.com/cascadiajs/2014.cascadiajs.com/call-for-makers/issues/new)
+* File a 'New Issue' using the 'What should be in the proposal?' below!
 
-For example, if your submission is called "JS Explosions" and your GitHub ID is `janedoe`, name the file `js-explosions_janedoe.md`. 
 
-* When you're ready, submit a pull request.
 * Wait patiently (and nicely) for us to get back to you, most likely very close
 to July 1st. We will respond to everyone who submits a proposal even if it's
 just to say "You're awesome, but not this year".
 
 ### What should be in the proposal?
-Every proposal should have, at minimum, the following information:
+Please enter the Title as "Title of Project" by First Name Last Name. 
+If your submission is called "JS Explosions" and your GitHub ID/name is 
+`janedoe` and `johndoe`, the title would be "JS Explosions" by Jane Doe and John Doe.
+
+In the body of every proposal there should be, at minimum, the following information:
 - Full names of submitters
 - Email for submitter seeking reimbursement for project costs
 - Project title
