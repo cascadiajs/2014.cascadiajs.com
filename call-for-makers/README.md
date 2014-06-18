@@ -53,7 +53,7 @@ to July 1st. We will respond to everyone who submits a proposal even if it's
 just to say "You're awesome, but not this year".
 
 ### What should be in the proposal?
-- Every proposal should have, at minimum, the following information:
+Every proposal should have, at minimum, the following information:
 - Full names of submitters
 - Email for submitter seeking reimbursement for project costs
 - Project title
