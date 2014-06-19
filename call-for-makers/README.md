@@ -44,7 +44,7 @@ Please note that all reimbursements will be via PayPal.
 First, make sure you're available. Opening night is July 30th, and the
 conference fun doesn't end until Aug. 2 at brunch.
 * Create a [GitHub account](github.com) if you don't have one already
-* Go to the [Call for Makers](https://github.com/cascadiajs/2014.cascadiajs.com/call-for-makers/issues/new) new issue
+* Go to the [Call for Makers](https://github.com/cascadiajs/2014.cascadiajs.com/issues/new) new issue
 * File a 'New Issue' using the 'What should be in the proposal?' below!
 
 Wait patiently (and nicely) for us to get back to you, most likely very close
