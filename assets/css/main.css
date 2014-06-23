@@ -291,7 +291,8 @@ p {
   font-size: 5.0em;
   font-family: 'ostrichrounded';
   color: rgba(255, 255, 255, 0.8);
-  background: #7dc8b6;
+  background-color: #7dc8b6;
+  background-size: contain;
   display: block;
   width: 188px;
   height: 188px;
@@ -306,12 +307,12 @@ p {
 
 .speaker:nth-child(7n + 1) > a > span:before,
 .speaker:nth-child(2n + 1) > a > span:before {
-  background: #92dba9;
+  background-color: #92dba9;
 }
 
 .speaker:nth-child(3n + 2) > a > span:before,
 .speaker:nth-child(8n + 2) > a > span:before {
-  background: #64c1f9;
+  background-color: #64c1f9;
 }
 
 #id_schedule table {
@@ -445,6 +446,7 @@ p {
     padding-left: 6px;
 }
 
+.speaker > h3,
 .organizer > h3 {
     background: #7dc8b6;
     margin-bottom: 0.25em;
@@ -453,6 +455,7 @@ p {
     position: relative;
 }
 
+.speaker > h3:after,
 .organizer > h3:after {
     width: 0;
     height: 0;
@@ -465,21 +468,33 @@ p {
     left: 86px;
 }
 
+.speaker > h3:after {
+    left: 76px;
+}
+
+.speaker:nth-child(7n + 1) > h3:after,
+.speaker:nth-child(2n + 1) > h3:after,
 .organizer:nth-child(7n + 1) > h3:after,
 .organizer:nth-child(2n + 1) > h3:after {
     border-top-color: #92dba9;
 }
 
+.speaker:nth-child(7n + 1) > h3,
+.speaker:nth-child(2n + 1) > h3,
 .organizer:nth-child(7n + 1) > h3,
 .organizer:nth-child(2n + 1) > h3 {
     background: #92dba9;
 }
 
+.speaker:nth-child(3n + 2) > h3:after,
+.speaker:nth-child(8n + 2) > h3:after,
 .organizer:nth-child(3n + 2) > h3:after,
 .organizer:nth-child(8n + 2) > h3:after {
     border-top-color: #64c1f9;
 }
 
+.speaker:nth-child(3n + 2) > h3,
+.speaker:nth-child(8n + 2) > h3,
 .organizer:nth-child(3n + 2) > h3,
 .organizer:nth-child(8n + 2) > h3 {
     background: #64c1f9;
@@ -497,4 +512,78 @@ p {
 
 .organizer > a {
     margin-bottom: 0px;
+}
+
+.speaker > .avatar {
+    width: 100%;
+    height: 188px;
+    background-size: contain;
+}
+
+
+._0953b75cd018be4c5bc5ebe973616df4 > .avatar {
+background-image: url(../img/humans/pixel_0953b75cd018be4c5bc5ebe973616df4.jpg);
+}
+._0c4d6916a7c2d340476039ec1ea3fd39 > .avatar {
+background-image: url(../img/humans/pixel_0c4d6916a7c2d340476039ec1ea3fd39.jpg);
+}
+._16d601b0f54b0a143fc1ae2ebbb8bbf6 > .avatar {
+background-image: url(../img/humans/pixel_16d601b0f54b0a143fc1ae2ebbb8bbf6.jpg);
+}
+._21f5ac037e54be55ae61adc87e401eb7 > .avatar {
+background-image: url(../img/humans/pixel_21f5ac037e54be55ae61adc87e401eb7.jpg);
+}
+._30c0f54f30fc6a201e3f5ddaa5bc5974 > .avatar {
+background-image: url(../img/humans/pixel_30c0f54f30fc6a201e3f5ddaa5bc5974.jpg);
+}
+._43c5ba821778b1db8660b5625bab6481 > .avatar {
+background-image: url(../img/humans/pixel_43c5ba821778b1db8660b5625bab6481.jpg);
+}
+._44c00253ab6c0e681820c82e9a2264d1 > .avatar {
+background-image: url(../img/humans/pixel_44c00253ab6c0e681820c82e9a2264d1.jpg);
+}
+._5c0b7f7cbe062e33981a602aae1d02c0 > .avatar {
+background-image: url(../img/humans/pixel_5c0b7f7cbe062e33981a602aae1d02c0.jpg);
+}
+._6484026a4631aa43dd283dea00d57fd9 > .avatar {
+background-image: url(../img/humans/pixel_6484026a4631aa43dd283dea00d57fd9.jpg);
+}
+._6fb7bae865c0f17d43813bf1d743b6b4 > .avatar {
+background-image: url(../img/humans/pixel_6fb7bae865c0f17d43813bf1d743b6b4.jpg);
+}
+._70145d936950b9533f82bf7184da06d0 > .avatar {
+background-image: url(../img/humans/pixel_70145d936950b9533f82bf7184da06d0.jpg);
+}
+._727ec524f99d72d3f20cf0a762fe97af > .avatar {
+background-image: url(../img/humans/pixel_727ec524f99d72d3f20cf0a762fe97af.jpg);
+}
+._7f54302f4c8c0043ef726b2eaaca49bf > .avatar {
+background-image: url(../img/humans/pixel_7f54302f4c8c0043ef726b2eaaca49bf.jpg);
+}
+._a1235655d050dda0680516581010d2ef > .avatar {
+background-image: url(../img/humans/pixel_a1235655d050dda0680516581010d2ef.jpg);
+}
+._a531f70601f2dcc2a7b3af5863d9df62 > .avatar {
+background-image: url(../img/humans/pixel_a531f70601f2dcc2a7b3af5863d9df62.jpg);
+}
+._ad6aedaf124d870586eb8f6c4b66ff35 > .avatar {
+background-image: url(../img/humans/pixel_ad6aedaf124d870586eb8f6c4b66ff35.jpg);
+}
+._ba0668208a6e892c6849d75e083c4b41 > .avatar {
+background-image: url(../img/humans/pixel_ba0668208a6e892c6849d75e083c4b41.jpg);
+}
+._bd7e3ea516f2ad64bdac00b65c847368 > .avatar {
+background-image: url(../img/humans/pixel_bd7e3ea516f2ad64bdac00b65c847368.jpg);
+}
+._c67155597e8ec43c1cdb3dd80d9ffa43 > .avatar {
+background-image: url(../img/humans/pixel_c67155597e8ec43c1cdb3dd80d9ffa43.jpg);
+}
+._d43e8ea63b61e7669ded5b9d3c2e980f > .avatar {
+background-image: url(../img/humans/pixel_d43e8ea63b61e7669ded5b9d3c2e980f.jpg);
+}
+._ef47bd7393961d4d17e11266a0e8ece8 > .avatar {
+background-image: url(../img/humans/pixel_ef47bd7393961d4d17e11266a0e8ece8.jpg);
+}
+._ff2b789c4df94861fe093d6b2ca4370b > .avatar {
+background-image: url(../img/humans/pixel_ff2b789c4df94861fe093d6b2ca4370b.jpg);
 }
