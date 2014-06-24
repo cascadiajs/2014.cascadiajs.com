@@ -275,6 +275,11 @@ p {
   display: inline-block;
   text-align: center;
   margin-bottom: 0.75em;
+  vertical-align: top;
+}
+
+.speaker .talk {
+  display:inline-block;
 }
 
 .speaker > a {
@@ -314,6 +319,7 @@ p {
 .speaker:nth-child(8n + 2) > a > span:before {
   background-color: #64c1f9;
 }
+
 
 #id_schedule table {
   width: 100%;
@@ -522,7 +528,7 @@ p {
 
 
 ._0953b75cd018be4c5bc5ebe973616df4 > .avatar {
-background-image: url(../img/humans/pixel_0953b75cd018be4c5bc5ebe973616df4.jpg);
+background-image: url(../img/humans/0953b75cd018be4c5bc5ebe973616df4.jpg);
 }
 ._0c4d6916a7c2d340476039ec1ea3fd39 > .avatar {
 background-image: url(../img/humans/pixel_0c4d6916a7c2d340476039ec1ea3fd39.jpg);
