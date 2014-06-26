@@ -14,6 +14,6 @@ _Note: the title is a trick question._
 
 ## Speaker Bio
 
-!["Jason Rhodes bio pic"](https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/jasonrhodes.png)
+<img alt="Jason Rhodes bio photo" src="https://raw.github.com/cascadiajs/2014.cascadiajs.com/master/images/jasonrhodes.jpg" width="300" height="300" />
 
 Jason is the lead developer at Johns Hopkins University, the organizer of [baltimore nodeschool](http://baltimorenodeschool.github.io), an open-source contributor, and a frequent screencast instructor for Nettuts.com. His latest course is called ["Node for the Front-End Developer"](http://courses.tutsplus.com/courses/node-for-the-front-end-developer).
