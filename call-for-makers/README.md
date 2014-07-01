@@ -79,3 +79,15 @@ Thanks, The CascadiaJS Team
 
 This insane effort absolutely would not be happening without the help of our
 gracious sponsors, [Digital Ocean](http://digitalocean.com) and [Orchestrate.io](http://orchestrate.io).
+
+#### And a super rad special offer from Orchestrate!
+"CascadiaJS Makers!
+
+Orchestrate is a proud sponsor of the interactive art contest at CascadiaJS this year, and is giving all makers a special offer for their art installations - use Orchestrate as your interactive installation's database backend for the contest (for free), and be eligible for a full year of free Orchestrate service!	
+
+Why should you try Orchestrate? Orchestrate is a managed database service that’s ideal for building interactive apps for the Web, IoT, devices, and mobile. Its simple, RESTful API service eliminates the need to operate databases in production, which dramatically increases development time and allows developers to build complete apps, or add features to existing apps, in minutes. Powered by best-of-breed NoSQL databases, it unifies full-text search, social graph, key/value document and time-ordered event queries in a single interface. Orchestrate handles the complex task of building, operating, and scaling a high performance, fault tolerant data layer, so you don’t have to. 
+
+Already have your data in another database? Don’t fret - you can easily use its CouchDB connector, JDBC importer or MongoDB exporter. Take a look at Orchestrate’s documentation for getting started tutorials, sample apps, client libraries and more. 
+
+We can’t wait to see what you create!"
+
