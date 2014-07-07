@@ -87,7 +87,9 @@ Orchestrate is a proud sponsor of the interactive art contest at CascadiaJS this
 
 Why should you try Orchestrate? Orchestrate is a managed database service that’s ideal for building interactive apps for the Web, IoT, devices, and mobile. Its simple, RESTful API service eliminates the need to operate databases in production, which dramatically increases development time and allows developers to build complete apps, or add features to existing apps, in minutes. Powered by best-of-breed NoSQL databases, it unifies full-text search, social graph, key/value document and time-ordered event queries in a single interface. Orchestrate handles the complex task of building, operating, and scaling a high performance, fault tolerant data layer, so you don’t have to. 
 
-Already have your data in another database? Don’t fret - you can easily use its CouchDB connector, JDBC importer or MongoDB exporter. Take a look at Orchestrate’s documentation for getting started tutorials, sample apps, client libraries and more. 
+Already have your data in another database? Don’t fret - you can easily use its [CouchDB](http://orchestrate.io/blog/2014/06/18/replicating-couchdb-to-orchestrate/) connector, [JDBC importer](https://github.com/orchestrate-io/jdbc-importer) or [MongoDB exporter](http://orchestrate.io/blog/2014/03/18/mongodb-to-orchestrate-in-a-few-simple-steps/). Take a look at Orchestrate’s [documentation](http://orchestrate.io/docs/) for getting started tutorials, sample apps, client libraries and more. 
+
+Please feel free to reach out if you have any questions [adam@orchestrate.io](adam@orchestrate.io)
 
 We can’t wait to see what you create!"
 
