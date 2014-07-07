@@ -1,4 +1,4 @@
-# Everything you never wanted to know maps
+# Everything you never wanted to know about maps
 
 * Name      : Patrick Arlt
 * Twitter   : [@patrickarlt](http://twitter.com/patrickarlt)
