@@ -1,6 +1,6 @@
 # AllNightRave.js
 
-* Name			: Floh Herra-Vega
+* Name			: Florencia Herra-Vega
 * Twitter		: [@flohdot](http://twitter.com/flohdot)
 * GitHub		: [flohdot](http://github.com/flohdot)
 * Website		: [shapeshape.co](http://shapeshape.co)
