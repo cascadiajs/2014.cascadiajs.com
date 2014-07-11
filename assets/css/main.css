@@ -121,7 +121,7 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
 }
 
 .group h3 {
-  font-size:2.0em;
+  font-size:1.75em;
   line-height: 1.0;
 }
 
@@ -602,4 +602,16 @@ background-image: url(../img/humans/ef47bd7393961d4d17e11266a0e8ece8.jpg);
 }
 ._ff2b789c4df94861fe093d6b2ca4370b > .avatar {
 background-image: url(../img/humans/pixel_ff2b789c4df94861fe093d6b2ca4370b.jpg);
+}
+
+#accent {
+    position: relative;
+}
+
+#accent:before {
+    content: '\00B4';
+    position: absolute;
+    font-size: 0.5em;
+    left: 2px;
+    top: -2px;
 }
