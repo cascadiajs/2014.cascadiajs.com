@@ -610,6 +610,9 @@ background-image: url(../img/humans/ef47bd7393961d4d17e11266a0e8ece8.jpg);
 ._ff2b789c4df94861fe093d6b2ca4370b > .avatar {
 background-image: url(../img/humans/ff2b789c4df94861fe093d6b2ca4370b.jpg);
 }
+._curtis > .avatar {
+background-image: url(../img/humans/curtis.png);
+}
 
 #accent {
     position: relative;
