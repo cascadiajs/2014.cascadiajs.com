@@ -399,7 +399,12 @@ p {
 
 .twilio {
   background-image: url('../img/sponsors/twilio.png');  
-  height: 110px; 
+  height: 200px; 
+}
+
+.urban-airship {
+  background-image: url('../img/sponsors/urban-airship.png');  
+  height: 200px; 
 }
 
 .sauce-labs {
@@ -448,7 +453,7 @@ p {
 }
 
 /* andyet uplift twilio esri sauce-labs github concurix digital-ocean*/
-.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix, .digital-ocean, .orchestrate, .craigslist{
+.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix, .digital-ocean, .orchestrate, .craigslist, .urban-airship{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top left;
