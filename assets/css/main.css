@@ -633,3 +633,14 @@ background-image: url(../img/humans/cj.png);
     left: 2px;
     top: -2px;
 }
+
+#schedule ol{
+  list-style: none;
+}
+#schedule time{
+  font-style: italic;
+  display: inline-block;
+  width: 5em;
+  margin-right: 2em;
+  text-align: right;
+}
