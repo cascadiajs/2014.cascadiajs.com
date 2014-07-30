@@ -419,6 +419,18 @@ p {
   left: -2%;
 }
 
+.godaddy {
+  background-image: url('../img/sponsors/godaddy.png');  
+  height: 110px; 
+}
+
+.rackspace {
+  background-image: url('../img/sponsors/rackspace.png');  
+  height: 45px; 
+  position: relative;
+  right: -2%;
+}
+
 .github {
   background-image: url('../img/sponsors/github.png');  
   height: 110px; 
@@ -453,7 +465,7 @@ p {
 }
 
 /* andyet uplift twilio esri sauce-labs github concurix digital-ocean*/
-.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix, .digital-ocean, .orchestrate, .craigslist, .urban-airship{
+.esri, .sauce-labs, .andyet, .uplift, .twilio, .github, .concurix, .digital-ocean, .orchestrate, .craigslist, .urban-airship, .godaddy, .rackspace {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top left;
