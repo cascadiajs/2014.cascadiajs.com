@@ -656,3 +656,11 @@ background-image: url(../img/humans/cj.png);
   margin-right: 2em;
   text-align: right;
 }
+
+.speaker_slots a{
+    color: #aaa;
+}
+.speaker_slots{
+    margin-top: .25em;
+    margin-left: 3em;
+}
